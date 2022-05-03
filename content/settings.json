@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#008c2d",
   "theme": {
-    "bootswatch": "cosmo",
-    "custom": "niche-flowers"
+    "bootswatch": "_",
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/querotudonatural",
