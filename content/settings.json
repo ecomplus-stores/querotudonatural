@@ -1,26 +1,26 @@
 {
   "domain": "querotudonatural.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#008c2d",
   "theme": {
     "bootswatch": "cosmo",
     "custom": "niche-flowers"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/querotudonatural",
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/g3338.png",
   "name": "querotudonatural",
   "short_name": "querotudonatural",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/g3338.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "secondary_color": "#ffed00",
+  "icon": "/img/uploads/g3338.png",
   "store_id": 51261,
-  "description": "querotudonatural",
-  "large_icon": "/img/large-icon.png"
+  "description": "A Querotudonatural é líder online de saúde e suplementos. Somos especializados em oferecer aos nossos clientes produtos de qualidade, incluindo suplementos nutricionais e alimentos orgânicos, bem como produtos de beleza, nutrição esportiva e para animais de estimação.",
+  "large_icon": "/img/uploads/g3338.png"
 }
