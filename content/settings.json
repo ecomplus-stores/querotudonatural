@@ -1,7 +1,7 @@
 {
   "domain": "querotudonatural.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#008c2d",
+  "primary_color": "#379856",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -18,9 +18,9 @@
   "favicon": "/img/uploads/g3338.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#c8c800",
+  "secondary_color": "#d9d91b",
   "icon": "/img/uploads/g3338.png",
   "store_id": 51261,
-  "description": "A Querotudonatural é líder online de saúde e suplementos. Somos especializados em oferecer aos nossos clientes produtos de qualidade, incluindo suplementos nutricionais e alimentos orgânicos, bem como produtos de beleza, nutrição esportiva e para animais de estimação. ",
+  "description": "Somos especialistas em suplementos importados anti-envelhecimento, para tratamentos naturais, hormonios bio-identicos, nutrição e animais de estimação. ",
   "large_icon": "/img/uploads/g3338.png"
 }
