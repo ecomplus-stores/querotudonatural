@@ -200,7 +200,7 @@
     </url>
   
     <url>
-      <loc>https://querotudonatural.netlify.app/corpo</loc>
+      <loc>https://querotudonatural.netlify.app/prevencao-e-tratamentos/corpo</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -380,7 +380,7 @@
     </url>
   
     <url>
-      <loc>https://querotudonatural.netlify.app/fontes-de-colina</loc>
+      <loc>https://querotudonatural.netlify.app/especiais/nootropicos/fontes-de-colina</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -776,7 +776,7 @@
     </url>
   
     <url>
-      <loc>https://querotudonatural.netlify.app/gastrite</loc>
+      <loc>https://querotudonatural.netlify.app/prevencao-e-tratamentos/doencas/gastrite/sangue-de-dragao-puro</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -1509,12 +1509,6 @@
   
     <url>
       <loc>https://querotudonatural.netlify.app/prevencao-e-tratamentos/doencas/cancer/vitamina-b-17</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://querotudonatural.netlify.app/prevencao-e-tratamentos/doencas/gastrite/sangue-de-dragao-puro</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
