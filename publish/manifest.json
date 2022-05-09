@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.10d8bda3dd538474832fe8927dd714f6.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.840c0d7ce83d965e6ee20a4fb260b1e5.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.c1b58f21edecc6aa205d27490de09d8f.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.341dec7ea0a21d928507ccb14e594335.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.9dedb4c781fca6abe4313edc26d280c1.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "querotudonatural",
+  "short_name": "querotudonatural",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Somos especialistas em suplementos importados anti-envelhecimento, para tratamentos naturais, hormonios bio-identicos, nutrição e animais de estimação. ",
+  "background_color": "#ffffff",
+  "theme_color": "#379856"
+}
