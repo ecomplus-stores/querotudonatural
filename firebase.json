@@ -1,6 +1,51 @@
 {
   "hosting": {
     "redirects": [
+      {
+"source": "/curaderm/curaderm-BEC5-cura-para-cancer-de-pele-nao-melanoma",
+"destination": "/curaderm-bec5-cura-para-cancer-de-pele-nao-melanoma",
+"type": 301
+},
+{
+"source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
+"destination": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
+"type": 301
+},
+{
+"source": "/cartucho-de-vape-delta-8-thc-10x-grand-daddy-900mg",
+"destination": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
+"type": 301
+},
+{
+"source": "/especiais/cbd-medicinal/vapor-de-cbd/caneta-vape-e-kits-vaporizadores/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc",
+"destination": "/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc",
+"type": 301
+},
+{
+"source": "/capsulas-de-vitamina-d3-lipossomal-5000-ui-suplementos-vit-d-de-alta-potencia-com-oleo-de-coco-organico-colecalciferol-nao-ogm-sem-gluten-upnourish-365-capsulas",
+"destination": "/capsulas-de-vitamina-d3-lipossomal-5000-ui-suplementos-vit-d-de-alta-potencia-com-oleo-de-coco-organico-colecalciferol-nao-ogm-sem-gluten-upnourish-365-capsulas",
+"type": 301
+},
+{
+"source": "/nome_correto_delta9_thc_drops_cbn_mistura_doce_sonhos_30ml",
+"destination": "/oleo-delta-9-thc-drops-cbd-ultimate-chill-blend-30ml",
+"type": 301
+},
+{
+"source": "/nome_correto_delta9_thc_drops_cbd_ultimate_chill_blend_30ml",
+"destination": "/oleo-delta-9-thc-drops-cbd-ultimate-chill-blend-30ml",
+"type": 301
+},
+{
+"source": "/prevencao-e-tratamentos/doencas/cancer/p-blushwood-extrato-ebc-46-lipossomal-anti-cancer",
+"destination": "p-blushwood-extrato-ebc-46-lipossomal-anti-cancer",
+"type": 301
+},
+{
+"source": "/especiais/cbd-medicinal/vapor-de-cbd/caneta-vape-e-kits-vaporizadores/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc",
+"destination": "/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc",
+"type": 301
+}
     ],
     "public": "dist",
     "ignore": [
