@@ -70,6 +70,21 @@
 "source": "/especiais/cbd-medicinal/vapor-de-cbd/cartucho-de-cbd/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
 "destination": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
 "type": 301
+},
+      {
+"source": "/cartucho-de-vape-delta-8-thc-zkittlez-indica-950mg",
+"destination": "/cartucho-de-vape-delta-8-thc-hibrido-indica-sativa-950mg",
+"type": 301
+},
+{
+"source": "/especiais/cbd-medicinal/vapor-de-cbd/cartucho-de-cbd/cartucho-de-vape-delta-8-thc-10x-grand-daddy-900mg",
+"destination": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
+"type": 301
+},
+{
+"source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/cartucho-de-vape-delta-8-thc-hibrido-indica-sativa-950mg",
+"destination": "/cartucho-de-vape-delta-8-thc-hibrido-indica-sativa-950mg",
+"type": 301
 }
     ],
     "public": "dist",
