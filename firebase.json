@@ -85,6 +85,16 @@
 "source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/cartucho-de-vape-delta-8-thc-hibrido-indica-sativa-950mg",
 "destination": "/cartucho-de-vape-delta-8-thc-hibrido-indica-sativa-950mg",
 "type": 301
+},
+      {
+"source": "/cartucho-vape-cbd-ativo-neutractiv-tosse-morango-raw-cannabinoid-800mg",
+"destination": "/vape-cbd-activo-cannabis-neutractiv-canabinoide-bruto-descartavel-sour-diesel-800mg",
+"type": 301
+},
+{
+"source": "/nad-crystal-star-60-capsulas",
+"destination": "/nad-patenteado-suplemento-para-energia-celular-e-envelhecimento-saudavel-crystal-star-68g-60-capsulas",
+"type": 301
 }
     ],
     "public": "dist",
