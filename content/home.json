@@ -46,8 +46,8 @@
       "shuffle": true,
       "collection_id": "6273e8af3da6d37bc2216694:categories:Prevenção e Tratamentos:/prevencao-e-tratamentos",
       "sort": "news",
-      "title": "",
-      "headless": false,
+      "title": "Lançamentos",
+      "headless": true,
       "limit": 12,
       "page": 1
     },
