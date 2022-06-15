@@ -2,6 +2,16 @@
   "hosting": {
     "redirects": [
       {
+"source": "/cartucho-de-cbd/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
+"destination": "10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
+"type": 301
+},
+{
+"source": "especiais/cbd-medicinal/oleo-de-cbd/delta-thc/cartucho-vape-delta-8-rosca-510-mystic-labs-1-grama-escolha-o-sabor",
+"destination": "/cartucho-vape-delta-8-rosca-510-mystic-labs-1-grama-escolha-o-sabor",
+"type": 301
+},
+      {
 "source": "/curaderm/curaderm-BEC5-cura-para-cancer-de-pele-nao-melanoma",
 "destination": "/curaderm-bec5-cura-para-cancer-de-pele-nao-melanoma",
 "type": 301
