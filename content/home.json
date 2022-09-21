@@ -91,6 +91,10 @@
       "headless": false
     },
     {
+      "type": "custom-html",
+      "html": "<div class=\"info-footer\">\n    <div class=\"container\">\n\n        <div class=\"box-duvidas\"><img src=\"/img/uploads/duvidas.png\"></div>\n\n        <div class=\"avaliacoes\">\n            <div class=\"box-avaliacao\">\n                <span>Amei comprar na Quero Tudo Natural! Os produtos são selecionados e de muita qualidade. Voltarei a comprar na loja, super indico!</span>\n                <br><br>\n                <p><img src=\"/img/uploads/star.png\"><strong>Janaina Campos</strong></p>\n            </div>\n            <div class=\"box-avaliacao\">\n                <span>Amei comprar na Quero Tudo Natural! Os produtos são selecionados e de muita qualidade. Voltarei a comprar na loja, super indico!</span>\n                <br><br>\n                <p><img src=\"/img/uploads/star.png\"><strong>Janaina Campos</strong></p>\n            </div>\n            <div class=\"box-avaliacao\">\n                <span>Amei comprar na Quero Tudo Natural! Os produtos são selecionados e de muita qualidade. Voltarei a comprar na loja, super indico!</span>\n                <br><br>\n                <p><img src=\"/img/uploads/star.png\"><strong>Janaina Campos</strong></p>\n            </div>\n        </div>\n\n    </div>\n</div>\n\n<div class=\"blog-footer\">\n    <div class=\"container\">    \n       <div class=\"title-blog\"><strong>Nosso Blog</strong>|<span>Confira uma seleção especial de conteúdos voltados para assuntos essenciais para saúde, dúvidas e dicas</span></div>\n    </div>\n</div>"
+    },
+    {
       "type": "blog",
       "enabled": true
     }
