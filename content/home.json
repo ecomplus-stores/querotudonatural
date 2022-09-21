@@ -62,9 +62,13 @@
       "collection_id": "6273e8af3da6d37bc2216694:categories:Prevenção e Tratamentos:/prevencao-e-tratamentos",
       "sort": "news",
       "title": "Lançamentos",
-      "headless": true,
+      "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "custom-html",
+      "html": "<div class=\"center-bg\">\n    <div class=\"container\">\n        <div class=\"box-center\">\n            <a href=\"#\"><img src=\"/img/uploads/pessoais.png\"></a>\n            <a href=\"#\"><img src=\"/img/uploads/sono.png\"></a>\n            <a href=\"#\"><img src=\"/img/uploads/pet.png\"></a>\n        </div>\n        <div class=\"box-center\">\n            <a href=\"#\"><img src=\"/img/uploads/saude.png\"></a>\n            <a href=\"#\"><img src=\"/img/uploads/idade.png\"></a>\n            <a href=\"#\"><img src=\"/img/uploads/sexual.png\"></a>\n        </div>\n    </div>\n</div>"
     },
     {
       "type": "collection-shelf",
@@ -72,8 +76,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6273e8ac3da6d37bc2216689:categories:Especiais:/especiais",
-      "title": "Especiais",
-      "headless": true,
+      "title": "Destaques",
+      "headless": false,
       "sort": "views"
     },
     {
@@ -84,7 +88,11 @@
       "collection_id": "6273eaf93da6d37bc2216b34:categories:CBD Medicinal:/especiais/cbd-medicinal",
       "sort": "sales",
       "title": "CBD Medicinal",
-      "headless": true
+      "headless": false
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
