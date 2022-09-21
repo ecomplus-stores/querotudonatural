@@ -32,6 +32,17 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/entrega-exterior.jpg"
+        },
+        {
+          "img": "/img/uploads/protecao.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/banner2-536x337.jpg"
         },
         {
