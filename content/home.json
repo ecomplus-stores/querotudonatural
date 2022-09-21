@@ -5,7 +5,7 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "start": "",
@@ -21,6 +21,21 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/banner42-1920x650.jpg"
+        }
+      ]
+    },
+    {
+      "type": "custom-html",
+      "html": "<div class=\"banner-central\">\n    <div class=\"container\">\n        <div class=\"banner-tarja\">\n            <a href=\"#\"> <!--Link do Banner-->\n                <div class=\"img-info\"><img src=\"/img/uploads/ico_01.png\"></div>\n                <div>\n                    <span>Nossos produtos</span>\n                    <span>são 100% Naturais</span>\n                </div>\n            </a>\n        </div>\n        <div class=\"banner-tarja\">\n            <a href=\"#\"> <!--Link do Banner-->\n                <div class=\"img-info\"><img src=\"/img/uploads/ico_03.png\"></div>\n                <div>\n                    <span>Parcele as compras</span>\n                    <span>em até 10X sem juros</span>\n                </div>\n            </a>\n        </div>\n        <div class=\"banner-tarja\">\n            <a href=\"#\"> <!--Link do Banner-->\n                <div class=\"img-info\"><img src=\"/img/uploads/ico_05.png\"></div>\n                <div>\n                    <span>Desconto de 10%</span>\n                    <span>nos pagamentos via PIX</span>\n                </div>\n            </a>\n        </div>\n        <div class=\"banner-tarja\">\n            <a href=\"#\"> <!--Link do Banner-->\n                <div class=\"img-info\"><img src=\"/img/uploads/ico_07.png\"></div>\n                <div>\n                    <span>Nossos produtos</span>\n                    <span>são 100% Naturais</span>\n                </div>\n            </a>\n        </div>\n    </div>\n</div>"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/entrega-exterior.jpg"
+        },
+        {
+          "img": "/img/uploads/protecao.jpg"
         }
       ]
     },
