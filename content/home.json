@@ -89,6 +89,10 @@
       "sort": "sales",
       "title": "CBD Medicinal",
       "headless": true
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
