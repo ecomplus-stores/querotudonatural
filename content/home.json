@@ -67,6 +67,10 @@
       "page": 1
     },
     {
+      "type": "custom-html",
+      "html": "<div class=\"center-bg\">\n    <div class=\"container\">\n        <div class=\"box-center\">\n            <a href=\"#\"><img src=\"/img/uploads/pessoais.png\"></a>\n            <a href=\"#\"><img src=\"/img/uploads/sono.png\"></a>\n            <a href=\"#\"><img src=\"/img/uploads/pet.png\"></a>\n        </div>\n        <div class=\"box-center\">\n            <a href=\"#\"><img src=\"/img/uploads/saude.png\"></a>\n            <a href=\"#\"><img src=\"/img/uploads/idade.png\"></a>\n            <a href=\"#\"><img src=\"/img/uploads/sexual.png\"></a>\n        </div>\n    </div>\n</div>"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
@@ -85,10 +89,6 @@
       "sort": "sales",
       "title": "CBD Medicinal",
       "headless": true
-    },
-    {
-      "type": "custom-html",
-      "html": "<div class=\"center-bg\">\n    <div class=\"container\">\n        <div class=\"box-center\">\n            <a href=\"#\"><img src=\"/img/uploads/pessoais.png\"></a>\n            <a href=\"#\"><img src=\"/img/uploads/sono.png\"></a>\n            <a href=\"#\"><img src=\"/img/uploads/pet.png\"></a>\n        </div>\n        <div class=\"box-center\">\n            <a href=\"#\"><img src=\"/img/uploads/saude.png\"></a>\n            <a href=\"#\"><img src=\"/img/uploads/idade.png\"></a>\n            <a href=\"#\"><img src=\"/img/uploads/sexual.png\"></a>\n        </div>\n    </div>\n</div>"
     }
   ]
 }
