@@ -1,7 +1,7 @@
 {
   "domain": "www.querotudonatural.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#379856",
+  "primary_color": "#008d36",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/g3338.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#d9d91b",
+  "secondary_color": "#ffee00",
   "icon": "/img/uploads/g3338.png",
   "store_id": 51261,
   "description": "Somos especialistas em suplementos importados anti-envelhecimento, para tratamentos naturais, hormonios bio-identicos, nutrição e animais de estimação. ",
