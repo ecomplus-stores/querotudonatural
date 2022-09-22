@@ -37,7 +37,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/entrega-exterior.jpg"
+          "img": "/img/uploads/entrega-exterior.jpg",
+          "mobile_img": "/img/uploads/frete-mob.png"
         },
         {
           "img": "/img/uploads/protecao.jpg"
