@@ -18,6 +18,8 @@
     "random": 6,
     "full_width": false
   },
-  "desktop_megamenu": false,
-  "search_input": true
+  "desktop_megamenu": true,
+  "search_input": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": false
 }
