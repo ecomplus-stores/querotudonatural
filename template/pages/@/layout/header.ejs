@@ -122,7 +122,14 @@ const fullWidthSubmenu = header.full_width_submenu
 <header class="header" id="header">
   <div class="header__container container-fluid">
     <div class="header__row row">
-      <div class="col-auto p-0">
+
+      <div class="col col-lg-auto pl-1 pl-md-2 pl-lg-3 logo-top">
+        <a href="/">
+          <%- await include('@/layout/inc/logo', { _ }) %>
+        </a>
+      </div>
+
+      <div class="col-auto p-0 menu-top">
         <button
           class="btn header__toggler<%= hasMegamenu ? ' d-lg-none' : '' %>"
           type="button"
@@ -136,12 +143,6 @@ const fullWidthSubmenu = header.full_width_submenu
             </span>
           <% } %>
         </button>
-      </div>
-
-      <div class="col col-lg-auto pl-1 pl-md-2 pl-lg-3">
-        <a href="/">
-          <%- await include('@/layout/inc/logo', { _ }) %>
-        </a>
       </div>
 
       <div class="order-lg-last col-auto p-0">
@@ -199,6 +200,18 @@ const fullWidthSubmenu = header.full_width_submenu
         </div>
       </div>
 
+      <% if (themeCustom === 'ecom-beauty' && isCategoriesNavFull) { %>
+        <% if (header.contacts_stripe.pages) { %>
+          <div class="header__page-links d-none d-lg-inline-block">
+            <% header.contacts_stripe.pages.forEach(({ link, title })=> { %>
+              <a href="<%= link %>">
+                <%= title %>
+              </a>
+            <% }) %>
+          </div>
+        <% } %>
+      <% } %>
+
       <% if (header.search_input) {
         const searchColSize = !isCategoriesNavFull && categories.length ? '-3' : ''
         %>
@@ -250,18 +263,6 @@ const fullWidthSubmenu = header.full_width_submenu
             %></script>
           <% } %>
         </div>
-      <% } %>
-
-      <% if (themeCustom === 'ecom-beauty' && isCategoriesNavFull) { %>
-        <% if (header.contacts_stripe.pages) { %>
-          <div class="header__page-links d-none d-lg-inline-block">
-            <% header.contacts_stripe.pages.forEach(({ link, title })=> { %>
-              <a href="<%= link %>">
-                <%= title %>
-              </a>
-            <% }) %>
-          </div>
-        <% } %>
       <% } %>
 
       <% if (categories && categories.length) { %>
