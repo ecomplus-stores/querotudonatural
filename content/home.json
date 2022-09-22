@@ -10,6 +10,11 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/bannerfull.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner41-1920x650.jpg"
         },
         {
@@ -21,11 +26,6 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/banner42-1920x650.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/bannerfull.jpg"
         }
       ]
     },
