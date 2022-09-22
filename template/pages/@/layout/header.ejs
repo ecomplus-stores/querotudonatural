@@ -264,63 +264,117 @@ const fullWidthSubmenu = header.full_width_submenu
           <% } %>
         </div>
       <% } %>
+
+      <% if (categories && categories.length) { %>
+        <div class="d-none d-lg-block <%= isCategoriesNavFull ? 'col-12 order-lg-last' : 'col' %>">
+          <nav class="header__nav<%= isCategoriesNavFull ? ' header__nav--full' : '' %>">
+            <% categories.forEach(({ slug, name, _id}) => { %>
+              <% let $categoryLink %>
+              <div class="d-inline-block">
+                <a
+                  href="javascript:;"
+                  class="header__category"
+                  id="cd-<%= _id %>"
+                  <%- hasMegamenu
+                    ? `onmouseover="toggleSubmenu('${slug}', this)" onclick="toggleSubmenu('${slug}', this, true)"`
+                    : `onclick="toggleSidenav('${slug}')"` %>
+                >
+                  <%= name %>
+                </a>
+                <%- $categoryLink %>
+                <%  if (slug && hasMegamenu) { %>
+                  <% const subcategories = _.categories.filter(({ parent }) => parent && parent.slug === slug) %>
+                  <% if (subcategories.length) { %>
+                    <%
+                      if (isAlphabeticalOrderSubmenu) {
+                        subcategories.sort((a, b)=> {
+                          return b.name > a.name ? -1 : 1
+                        })
+                      }
+                    %>
+                    <nav class="header__submenu<%= fullWidthSubmenu ? ' header__submenu--full' : '' %>" id="<%= `s-${slug.replace(/\//g, '_')}` %>">
+                      <% subcategories.forEach(subcategory => { %>
+                        <div>               
+                          <a id="sd-<%= subcategory._id %>" href="/<%= subcategory.slug %>"><%= subcategory.name %></a>
+                          <% const thirdCategories = _.categories.filter(({ parent }) => parent && parent.slug === subcategory.slug) %>
+                          <%
+                            if (isAlphabeticalOrderSubmenu) {
+                              thirdCategories.sort((a, b)=> {
+                                return b.name > a.name ? -1 : 1
+                              })
+                            }
+                          %>
+                          <% thirdCategories.forEach(thirdCategory => { %>
+                            <a id="td-<%= thirdCategory._id %>" class="header__submenu-subcategory" href="/<%= thirdCategory.slug %>">
+                              <%= thirdCategory.name %>
+                            </a>
+                          <% }) %>
+                        </div>
+                      <% }) %>
+                    </nav>
+                  <% } %>
+                <% } %>
+              </div>
+            <% }) %>
+          </nav>
+        </div>
+      <% } %>
     </div>
   </div>
-
-
-  <% if (categories && categories.length) { %>
-    <div class="d-none d-lg-block <%= isCategoriesNavFull ? 'col-12 order-lg-last' : 'col' %>">
-      <nav class="header__nav<%= isCategoriesNavFull ? ' header__nav--full' : '' %>">
-        <% categories.forEach(({ slug, name, _id}) => { %>
-          <% let $categoryLink %>
-          <div class="d-inline-block">
-            <a
-              href="javascript:;"
-              class="header__category"
-              id="cd-<%= _id %>"
-              <%- hasMegamenu
-                ? `onmouseover="toggleSubmenu('${slug}', this)" onclick="toggleSubmenu('${slug}', this, true)"`
-                : `onclick="toggleSidenav('${slug}')"` %>
-            >
-              <%= name %>
-            </a>
-            <%- $categoryLink %>
-            <%  if (slug && hasMegamenu) { %>
-              <% const subcategories = _.categories.filter(({ parent }) => parent && parent.slug === slug) %>
-              <% if (subcategories.length) { %>
-                <%
-                  if (isAlphabeticalOrderSubmenu) {
-                    subcategories.sort((a, b)=> {
-                      return b.name > a.name ? -1 : 1
-                    })
-                  }
-                %>
-                <nav class="header__submenu<%= fullWidthSubmenu ? ' header__submenu--full' : '' %>" id="<%= `s-${slug.replace(/\//g, '_')}` %>">
-                  <% subcategories.forEach(subcategory => { %>
-                    <div>               
-                      <a id="sd-<%= subcategory._id %>" href="/<%= subcategory.slug %>"><%= subcategory.name %></a>
-                      <% const thirdCategories = _.categories.filter(({ parent }) => parent && parent.slug === subcategory.slug) %>
-                      <%
-                        if (isAlphabeticalOrderSubmenu) {
-                          thirdCategories.sort((a, b)=> {
-                            return b.name > a.name ? -1 : 1
-                          })
-                        }
-                      %>
-                      <% thirdCategories.forEach(thirdCategory => { %>
-                        <a id="td-<%= thirdCategory._id %>" class="header__submenu-subcategory" href="/<%= thirdCategory.slug %>">
-                          <%= thirdCategory.name %>
-                        </a>
-                      <% }) %>
-                    </div>
-                  <% }) %>
-                </nav>
-              <% } %>
-            <% } %>
-          </div>
-        <% }) %>
-      </nav>
-    </div>
-  <% } %>
-  
 </header>
+<div class="menu-deskk">
+      <% if (categories && categories.length) { %>
+        <div class="d-none d-lg-block <%= isCategoriesNavFull ? 'col-12 order-lg-last' : 'col' %>">
+          <nav class="header__nav<%= isCategoriesNavFull ? ' header__nav--full' : '' %>">
+            <% categories.forEach(({ slug, name, _id}) => { %>
+              <% let $categoryLink %>
+              <div class="d-inline-block">
+                <a
+                  href="javascript:;"
+                  class="header__category"
+                  id="cd-<%= _id %>"
+                  <%- hasMegamenu
+                    ? `onmouseover="toggleSubmenu('${slug}', this)" onclick="toggleSubmenu('${slug}', this, true)"`
+                    : `onclick="toggleSidenav('${slug}')"` %>
+                >
+                  <%= name %>
+                </a>
+                <%- $categoryLink %>
+                <%  if (slug && hasMegamenu) { %>
+                  <% const subcategories = _.categories.filter(({ parent }) => parent && parent.slug === slug) %>
+                  <% if (subcategories.length) { %>
+                    <%
+                      if (isAlphabeticalOrderSubmenu) {
+                        subcategories.sort((a, b)=> {
+                          return b.name > a.name ? -1 : 1
+                        })
+                      }
+                    %>
+                    <nav class="header__submenu<%= fullWidthSubmenu ? ' header__submenu--full' : '' %>" id="<%= `s-${slug.replace(/\//g, '_')}` %>">
+                      <% subcategories.forEach(subcategory => { %>
+                        <div>               
+                          <a id="sd-<%= subcategory._id %>" href="/<%= subcategory.slug %>"><%= subcategory.name %></a>
+                          <% const thirdCategories = _.categories.filter(({ parent }) => parent && parent.slug === subcategory.slug) %>
+                          <%
+                            if (isAlphabeticalOrderSubmenu) {
+                              thirdCategories.sort((a, b)=> {
+                                return b.name > a.name ? -1 : 1
+                              })
+                            }
+                          %>
+                          <% thirdCategories.forEach(thirdCategory => { %>
+                            <a id="td-<%= thirdCategory._id %>" class="header__submenu-subcategory" href="/<%= thirdCategory.slug %>">
+                              <%= thirdCategory.name %>
+                            </a>
+                          <% }) %>
+                        </div>
+                      <% }) %>
+                    </nav>
+                  <% } %>
+                <% } %>
+              </div>
+            <% }) %>
+          </nav>
+        </div>
+      <% } %>
+</div>
