@@ -105,6 +105,10 @@
     {
       "type": "custom-html",
       "html": "<div class=\"empresa-footer\">\n    <div class=\"container\">\n        <img src=\"/img/uploads/quero-natural-logo.png\">\n        <p>\n            Na <strong>QueroTudoNatural</strong>, olhamos para a saúde holisticamente, sabendo que a jornada para o Bem-Estar e a Felicidade é incrivelmente individualizada. É mais do que lembrar de tomar as suas vitaminas – é ter acesso a uma variedade de produtos naturais e acessíveis, bem como obter o apoio necessário para os colocar em bom uso, independentemente dos seus objetivos de dieta ou saúde. Nossa missão é ser sua fonte de produtos naturais e conhecimento, apoiando sua jornada em direção ao bem-estar feliz e a longevidade.\n\n            Praticamos o que pregamos e, como você, queremos o melhor para nós mesmos, nossas famílias e nossas comunidades. Acreditamos que investir em nossa própria saúde e felicidade nos ajuda a orientar melhor nossos clientes em suas jornadas de bem-estar.\n        </p>\n    </div>\n</div>"
+    },
+    {
+      "type": "custom-html",
+      "html": "<div class=\"insta-footer\">\n    <div class=\"container\">\n        <p>Siga-nos no Insta<br><span>@querotudonatural</span></p>\n        <img src=\"/img/uploads/instagram.png\">\n    </div>\n</div>"
     }
   ]
 }
