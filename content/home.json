@@ -46,23 +46,6 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner2-536x337.jpg"
-        },
-        {
-          "img": "/img/uploads/banner1-536x337.jpg"
-        },
-        {
-          "img": "/img/uploads/banner3-536x337.jpg"
-        },
-        {
-          "img": "/img/uploads/banner4-536x337.jpg"
-        }
-      ]
-    },
-    {
       "type": "custom-html",
       "html": "<div class=\"bg-vitrine\"></div>"
     },
