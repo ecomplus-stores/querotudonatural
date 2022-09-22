@@ -50,10 +50,6 @@
       "html": "<div class=\"bg-vitrine\"></div>"
     },
     {
-      "type": "custom-html",
-      "html": "<div class=\"center-bg\">\n    <div class=\"container\">\n        <div class=\"box-center\">\n            <a href=\"#\"><img src=\"/img/uploads/pessoais.png\"></a>\n            <a href=\"#\"><img src=\"/img/uploads/sono.png\"></a>\n            <a href=\"#\"><img src=\"/img/uploads/pet.png\"></a>\n        </div>\n        <div class=\"box-center\">\n            <a href=\"#\"><img src=\"/img/uploads/saude.png\"></a>\n            <a href=\"#\"><img src=\"/img/uploads/idade.png\"></a>\n            <a href=\"#\"><img src=\"/img/uploads/sexual.png\"></a>\n        </div>\n    </div>\n</div>"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "6273e8af3da6d37bc2216694:categories:Prevenção e Tratamentos:/prevencao-e-tratamentos",
@@ -69,6 +65,14 @@
       "limit": 12,
       "page": 1,
       "sort": "news"
+    },
+    {
+      "type": "custom-html",
+      "html": "<div class=\"center-bg\">\n    <div class=\"container\">\n        <div class=\"box-center\">\n            <a href=\"#\"><img src=\"/img/uploads/pessoais.png\"></a>\n            <a href=\"#\"><img src=\"/img/uploads/sono.png\"></a>\n            <a href=\"#\"><img src=\"/img/uploads/pet.png\"></a>\n        </div>\n        <div class=\"box-center\">\n            <a href=\"#\"><img src=\"/img/uploads/saude.png\"></a>\n            <a href=\"#\"><img src=\"/img/uploads/idade.png\"></a>\n            <a href=\"#\"><img src=\"/img/uploads/sexual.png\"></a>\n        </div>\n    </div>\n</div>"
+    },
+    {
+      "type": "custom-html",
+      "html": "<div class=\"bg-vitrine2\"></div>"
     },
     {
       "type": "collection-shelf",
@@ -89,10 +93,6 @@
       "sort": "sales",
       "title": "CBD Medicinal",
       "headless": false
-    },
-    {
-      "type": "custom-html",
-      "html": "<div class=\"bg-vitrine2\"></div>"
     },
     {
       "type": "custom-html",
