@@ -27,6 +27,10 @@
     {
       "type": "product-specifications",
       "enabled": true
+    },
+    {
+      "type": "recommended-products",
+      "title": "Confira mais produtos"
     }
   ]
 }
