@@ -27,7 +27,7 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
@@ -41,6 +41,7 @@
     "paypal": true,
     "citibank": false,
     "mais": false,
+    "pix": true,
     "itau": false
   },
   "credits": ""
