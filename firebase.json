@@ -11,7 +11,7 @@
 "destination": "/cartucho-vape-delta-8-rosca-510-mystic-labs-1-grama-escolha-o-sabor",
 "type": 301
 },
-      {
+{
 "source": "/curaderm/curaderm-BEC5-cura-para-cancer-de-pele-nao-melanoma",
 "destination": "/curaderm-bec5-cura-para-cancer-de-pele-nao-melanoma",
 "type": 301
@@ -73,7 +73,7 @@
 },
 {
 "source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/cartucho-de-vape-delta-8-thc-10x-grand-daddy-900mg",
-"destination": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
+"destination": "/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc-calmante",
 "type": 301
 },
 {
@@ -129,7 +129,12 @@
     "source": "/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc",
     "destination": "/",
     "type": 301
-    }
+    },
+    {
+      "source": "/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc",
+      "destination": "/",
+      "type": 301
+      }
 
     ],
     "public": "dist",
