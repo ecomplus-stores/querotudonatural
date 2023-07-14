@@ -2,3 +2,7 @@
 .minicart__btn-checkout, .cart__btn-checkout {
     display: none;
 }
+.payment__gateway:after {
+    content: 'Clique aqui pra finalizar';
+    color: var(--success)
+}
