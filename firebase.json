@@ -129,7 +129,12 @@
       "source": "/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc",
       "destination": "/",
       "type": 301
-      }
+      },
+      {
+        "source": "/dha-infantil-capsulas-mastigaveis",
+        "destination": "/dha-infantil-3-6-anos-morango-nordic-naturals-360-mini-capsulas-gelatinosas",
+        "type": 301
+        }
 
     ],
     "public": "dist",
