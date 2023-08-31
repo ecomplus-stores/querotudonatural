@@ -134,7 +134,12 @@
         "source": "/dha-infantil-capsulas-mastigaveis",
         "destination": "/dha-infantil-3-6-anos-morango-nordic-naturals-360-mini-capsulas-gelatinosas",
         "type": 301
-        }
+        },
+        {
+          "source": "/capsulas-de-dicloroacetato-de-sodio",
+          "destination": "/dca-tratamento-cancer-dca-lab-capsulas",
+          "type": 301
+          }
 
     ],
     "public": "dist",
