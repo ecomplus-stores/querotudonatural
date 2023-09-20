@@ -1,6 +1,236 @@
 {
   "hosting": {
     "redirects": [
+    {
+        "source": "/cartucho-cbd-feito-com-enzactiv-vape-donut-e-maca-920mg",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-cbd-x3-people-0-5ml-500mg-83-1-unidade",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-de-delta-10-thc-happi-1100mg",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-de-delta-8-thc-descartavel-curevana-900mg",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/disposable-just-delta-8-1000mg",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-de-delta-8-thc-delta-effex",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-de-delta-8-thc-treetop-hemp-co-800mg",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-de-delta-8-thc-urb-finest-flowers",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-de-oleo-cbd-destilado-cbd-active-275mg-fio-510-1-unidade",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-de-oleo-destilado-vape-delta-9-thc-1-grama",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-de-vape-delta-8-thc-10x-grand-daddy-900mg",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-de-vape-mellow-fellow-thc-o-950mg",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-delta-8-jgo-1-grama",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-delta-8-rosca-510-resina-live-1350mg15g-1-cartucho",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-delta-8-thc-designer-urb-finest-flowers-1g",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-delta-8-thc-cbd-pharm-1g",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-delta-8-thc-delta-effex",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-delta-8-thc-treetop-hemp-co-700mg",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-delta-8-thc-urb-finest-flowers-1ml",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-delta-8-thc-o-e-thc-p-para-caneta-vaporizadora-permatrip-jgo-1-grama",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-delta-8-wild-orchard-rosca-510-400mg",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-delta-8-thc-cleen-940mg-510-1-unidade",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-delta-8-thc-mellow-fellow-950mg",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/vape-cbd-activo-cannabis-neutractiv-canabinoide-bruto-descartavel-sour-diesel-800mg",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-para-caneta-vaporizadora-rosca-510-jolly-green-oil-cbd-delta-8-e-thc-p-sativa-indica-hibrido-1g",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-rosca-510-blend-de-delta-10-com-thc-o-sativa-indica-e-hibrido-wild-orchard-1350mg-15g",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-thc-com-rosca-510-big-chief-1g",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-vape-cbd-ativo-neutractiv-tosse-morango-raw-cannabinoid-800mg",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-cbd-1-1-1-grama-de-vape-delta-8-idelta8-gold-rosca-510",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-vape-delta-8-blue-moon-hemp",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-vape-delta-8-rosca-510-mystic-labs-1-grama-escolha-o-sabor",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-vape-descartavel-thc-o-divine-hemp-1g",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cartucho-vazio-wickless-0-5ml-ou-1ml-510-fio-vidro",
+        "destination": "/cartucho-live-resin-delta-8-tre-house",
+        "type": 301
+    },
+    {
+        "source": "/cbd-modulo-vaporizador-calmante-pure-cbd-vapors-2-modulos-100mg",
+        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+        "type": 301
+    },
+    {
+        "source": "/cbd-caneta-vaporizadora-x3-pure-cbd-vapors-405mg",
+        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+        "type": 301
+    },
+    {
+        "source": "/kit-vape-com-espectro-completo-cleen-cbd-275mg-ou-550mg",
+        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+        "type": 301
+    },
+    {
+        "source": "/cbd-kit-vaporizador-sabor-cookies-pure-cbd-vapors-650-mg-1-ml",
+        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+        "type": 301
+    },
+    {
+        "source": "/kit_vipe_cbd_cartucho_v2",
+        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+        "type": 301
+    },
+    {
+        "source": "/kit_viper_cbd",
+        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+        "type": 301
+    },
+    {
+        "source": "/poderosa-caneta-vape-cbd-de-calor-variavel-compativel-com-rosca-510",
+        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+        "type": 301
+    },
+    {
+        "source": "/vape-descartavel-delta-8-blue-moon-hemp-1g",
+        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+        "type": 301
+    },
+    {
+        "source": "/vape_espectro_completo_organico_hemplucid_30ml",
+        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+        "type": 301
+    },
+    {
+        "source": "/vaporizado-cookies-x-g-pen-connect-edicao-limitada",
+        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+        "type": 301
+    },
+    {
+        "source": "/vaporizador-de-nevoa-de-cbd-funciona-com-qualquer-oleo-de-vapor-de-cbd",
+        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+        "type": 301
+    },
+    {
+        "source": "/vaporizador-wulf-next-azul-wulf-mods",
+        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+        "type": 301
+    },
 {
 "source": "/cartucho-de-cbd/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
 "destination": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
