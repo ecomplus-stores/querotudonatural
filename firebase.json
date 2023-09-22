@@ -1,6 +1,146 @@
 {
   "hosting": {
     "redirects": [
+        {
+            "source": "/caneta-vape-delta-9-thc-cbn-purple-punch-indica",
+            "destination": "/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc-calmante",
+            "type": 301
+        },
+        {
+            "source": "/barra-vape-descartavel-koi-cbd-100mg-sabores",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/kit-de-bateria-eliteheat-ftp-para-vaporizador-pure-cbd-vapors",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/bateria-inteligente-de-ftp-para-modulo-vaporizador-pure-cbd-vapors",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/bateria-slim-pen-twist-smart-usb-branco-ooze-100g",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/bateria-vape-pen-drive-the-kind-pen-twist-510-fios",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/caneta-barra-descartavel-delta-8-thc-thc-o-thc-p-koi-2-gramas",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/idelta_delta_10_preroll_125g",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/caneta-descartavel-vape-full-thco-1-grama",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/caneta-slim-oil-premium-cbd-tensao-variavel-para-oleos-mais-grossos",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/caneta-vape-alibi-thc-o-descartavel-super-diesel-acido-800mg",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/caneta-vape-azul-raspberry-cbd-250mg",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/caneta-vape-cbd-menta-fresca-250mg",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/caneta-vape-delta-8-descartavel-idelta-grama-completa",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/caneta-vape-descartavel-cbd-puro-350mg-espectro-total-uncut—1-unidade",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/caneta-vape-descartavel-cbd-blue-moon-hemp-purple-haze-1g-1000mg-1-unidade",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/caneta-vape-descartavel-delta-8-hempwholistix-1ml",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/caneta-vape-descartavel-hhc-full-gram-sem-vg-pg-e-mct-ideltax-1g",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/caneta-vape-descartavel-hhc-o-de-alta-potencia",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/caneta-vape-descartavel-recarregavel-delta-10-thc-o-wild-orchard-1-grama",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/caneta-vape-descartavel-supermoon-d8–d10–hhc–thc-o-1-grama",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/caneta-vape-descartavel-thc-de-uso-prolongado-x-cube-hemp-and-friend-3g",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/caneta-vape-descartavel-thc-p-sativa-indica-hibrida-ideltax-1-grama-completa",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/caneta-vape-para-ansiedade-oleo-vaporizador-descartavel-thc-o-divine-hemp-2g",
+            "destination": "/dcaneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/caneta-vape-recarregavel-e-descartavel-delta-8–thc-a-e-thc-b-fire-cannabis-inferno-blend-3g",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/caneta-vaping-descartavel-delta-8-thc-chill-plus-900mg",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/caneta-ideltax-descartavel-delta-10-vape-full-gram",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
+        {
+            "source": "/caneta-vaporizadora-thc-de-resina-viva-alta-potencia-thc-p–hhc–delta-8-koi-5g",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+        },
     {
         "source": "/cartucho-cbd-feito-com-enzactiv-vape-donut-e-maca-920mg",
         "destination": "/cartucho-live-resin-delta-8-tre-house",
