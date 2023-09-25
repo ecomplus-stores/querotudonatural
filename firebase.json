@@ -2,6 +2,21 @@
   "hosting": {
     "redirects": [
         {
+            "source": "/dispositivo-vape-descartavel-autentico-ald-sunday-scaries-thc-o-mimosa",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+            },
+            {
+            "source": "/dispositivo-descartavel-thc-o-golden-milk",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+            },
+            {
+            "source": "/dispositivo-descartavel-vape-blend-delta-8-thc-delta-10-thc-thc-o-thc-v-e-thc-p-urb-infinity–2g",
+            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+            "type": 301
+            },
+        {
             "source": "/caneta-vape-delta-9-thc-cbn-purple-punch-indica",
             "destination": "/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc-calmante",
             "type": 301
