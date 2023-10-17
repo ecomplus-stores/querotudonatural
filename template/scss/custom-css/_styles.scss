@@ -2,6 +2,10 @@
 .minicart__btn-checkout, .cart__btn-checkout {
     display: none;
 }
-.payment__gateway--108091 + a + a + .payment__method .payment__text {
+.payment__gateway--108091 + a + a + .payment__method .payment__text, .payment__method .payment__text .pix-qt  {
   display: none
+}
+
+.pix-qt img {
+  max-width: 100%;
 }
