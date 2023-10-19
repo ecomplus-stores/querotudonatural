@@ -16,8 +16,10 @@ export default {
     }
   },
 
-  data: {
-    country: 'BR'
+  data () {
+    return {
+      country: 'BR'
+    }
   },
 
   computed: {
