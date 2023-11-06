@@ -1,5 +1,5 @@
 import { i19zipCode } from '@ecomplus/i18n'
-import { $ecomConfig, i18n } from '@ecomplus/utils'
+import { i18n } from '@ecomplus/utils'
 import CleaveInput from 'vue-cleave-component'
 
 export default {
@@ -13,13 +13,8 @@ export default {
     value: {
       type: [String, Number],
       required: true
-    }
-  },
-
-  data () {
-    return {
-      country: 'BR'
-    }
+    },
+    country: String
   },
 
   computed: {

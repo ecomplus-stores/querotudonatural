@@ -18,11 +18,25 @@
     >
   </div>
 
+  <div class="form-group address-form__country">
+    <select 
+        name="country" 
+        id="country"
+        class="custom-select"
+        @change="$event => countryCode = $event.target.value"
+      >
+        <option value="BR">Brasil</option>
+        <option value="US">Estados Unidos</option>
+        <option value="CR">Canadá</option>
+      </select>
+  </div>
+
   <div class="form-group address-form__zip">
     <div class="input-group">
       <input-zip-code
         id="address-form-zip"
         v-model="localAddress.zip"
+        :country="countryCode"
         :aria-label="i19zipCode"
         required
       />
@@ -55,7 +69,7 @@
     enter-active-class="animated fadeIn"
     leave-active-class="animated fadeOut fast"
   >
-    <div v-show="isZipReady">
+    <div v-show="countryCode !== 'BR'|| isZipReady" v-if="zipLoading || zipInfoLink || countryCode !== 'BR'">
       <div class="form-group">
         <label for="address-form-number">
           {{ i19number }}

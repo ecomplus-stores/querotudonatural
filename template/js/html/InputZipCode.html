@@ -8,14 +8,4 @@
     v-model="localValue"
     :placeholder="placeholder"
   />
-
-  <select 
-      name="country" 
-      id="country"
-      @change="$event => country = $event.target.value"
-  >
-      <option value="US">Estados Unidos</option>
-      <option value="BR">Brasil</option>
-      <option value="AR">Argentina</option>
-  </select>
 </template>

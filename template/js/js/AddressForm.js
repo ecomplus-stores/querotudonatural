@@ -23,8 +23,6 @@ import {
   import checkFormValidity from '@ecomplus/storefront-components/src/js/helpers/check-form-validity'
   import InputZipCode from '@ecomplus/storefront-components/src/InputZipCode.vue'
   
-  const countryCode = $ecomConfig.get('country_code')
-  
   export default {
     name: 'AddressForm',
   
@@ -56,10 +54,11 @@ import {
           province_code: '',
           ...this.address
         },
-        isZipReady: countryCode !== 'BR',
         zipLoading: null,
         addressFromZip: {},
-        isNoNumber: false
+        isNoNumber: false,
+        countryCode: 'BR',
+        isZipReady: this.countryCode !== 'BR',
       }
     },
   
@@ -86,7 +85,7 @@ import {
       },
   
       zipInfoLink () {
-        return countryCode === 'BR'
+        return this.countryCode === 'BR'
           ? 'https://buscacepinter.correios.com.br/app/endereco/index.php'
           : null
       }
@@ -94,7 +93,7 @@ import {
   
     methods: {
       updateZipState () {
-        if (countryCode === 'BR' && this.localAddress.zip.length >= 8) {
+        if (this.countryCode === 'BR' && this.localAddress.zip.length >= 8) {
           if (this.zipLoading !== this.localAddress.zip) {
             this.addressFromZip = {}
             setTimeout(() => {
@@ -179,6 +178,28 @@ import {
       isNoNumber (isNoNumber) {
         if (isNoNumber) {
           delete this.localAddress.number
+        }
+      },
+
+      countryCode (currentCountry, oldCountry) {
+        if (currentCountry !== oldCountry) {
+          this.localAddress = {
+            country_code: currentCountry
+          }
+          this.localAddress.country_code = currentCountry
+          this.localAddress.name = this.address.name
+          this.localAddress._id = getRandomObjectId()
+          delete this.localAddress.zip
+          delete this.localAddress.street
+          delete this.localAddress.borough
+          delete this.localAddress.province_code
+          delete this.localAddress.city
+          this.addressFromZip = {
+            borough:false,
+            city:false,
+            province_code:false,
+            street:false
+          }
         }
       }
     },
