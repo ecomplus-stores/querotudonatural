@@ -36,20 +36,6 @@ if (stamps && Array.isArray(stamps.stamps_list) && stamps.stamps_list.length) {
       `ProductCard` should be rendered (hydrated) here:
       https://developers.e-com.plus/storefront/@ecomplus/storefront-components/docs/ProductCard.html
     -->
-    <div data-slot="stamps">
-      <% if (Array.isArray(stampsList) && stampsList.length) { %>
-        <div class="product-card__stamps">
-          <% for (stamp of stampsList) { 
-            if (stamp.img && (!stamp.skus || !stamp.skus.length || stamp.skus.includes(itemData.sku))) {
-              %>
-              <span class="product-card__stamps-<%= stamp.id && stamp.id.toLowerCase().replace(/\s/g, '-') %>">
-                <img src="<%= stamp.img %>" alt="<%= stamp.id %>">
-              </span>
-            <% } %>
-          <% } %>
-        </div>
-      <% } %>
-    </div>
 
     <a
       href="/<%= itemData.slug %>"
@@ -77,7 +63,23 @@ if (stamps && Array.isArray(stamps.stamps_list) && stamps.stamps_list.length) {
         <% } %>
       </div>
 
+      <div data-slot="stamps">
+        
+      </div>
+
       <div data-slot="title">
+        <% if (Array.isArray(stampsList) && stampsList.length) { %>
+          <div class="product-querotudonatural-card__stamps">
+            <% for (stamp of stampsList) { 
+              if (stamp.img && (!stamp.skus || !stamp.skus.length || stamp.skus.includes(itemData.sku))) {
+                %>
+                <span class="product-card__stamps-<%= stamp.id && stamp.id.toLowerCase().replace(/\s/g, '-') %>">
+                  <img src="<%= stamp.img %>" alt="<%= stamp.id %>">
+                </span>
+              <% } %>
+            <% } %>
+          </div>
+        <% } %>
         <h3 class="product-card__name">
           <%= itemData.name %>
         </h3>
