@@ -9,6 +9,7 @@ storefront.on('widget:@ecomplus/widget-minicart', function () {
     `);
     document.querySelector('#block-confirm').addEventListener('click', (e) => {
         if (e.target.checked) {
+            window.sessionStorage.setItem('cart-check', 1)
             document.querySelector('#block-confirm').style.display = 'none'
             document.querySelector('.minicart__btn-checkout').style.display = 'block'
         }

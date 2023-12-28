@@ -12,7 +12,8 @@ module.exports = () => ({
         './js/PaymentMethods.js': path.resolve(__dirname, 'template/js/js/PaymentMethods.js'),
         './html/AddressForm.html': path.resolve(__dirname, 'template/js/html/AddressForm.html'),
         './js/AddressForm.js': path.resolve(__dirname, 'template/js/js/AddressForm.js'),
-        './js/InputZipCode.js': path.resolve(__dirname, 'template/js/js/InputZipCode.js')
+        './js/InputZipCode.js': path.resolve(__dirname, 'template/js/js/InputZipCode.js'),
+        './js/ShippingCalculator.js': path.resolve(__dirname, 'template/js/js/ShippingCalculator.js')
     }
   }
 })

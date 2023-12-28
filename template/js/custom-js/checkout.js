@@ -9,8 +9,15 @@ storefront.on('widget:@ecomplus/widget-tag-manager', function () {
     `);
     document.querySelector('#block-confirm').addEventListener('click', (e) => {
         if (e.target.checked) {
+            window.sessionStorage.setItem('cart-check', 1)
             document.querySelector('#block-confirm').style.display = 'none'
             document.querySelector('.cart__btn-checkout').style.display = 'block'
         }
     })
 })
+
+setInterval(() => {
+    if (Number(window.sessionStorage.getItem('cart-check'))) {
+        document.querySelector('.cart__btn-checkout').style.display = 'block'
+    }
+}, 500)
