@@ -19,3 +19,8 @@
     width: 100%;
   }
 }
+
+.order-info__payment-notes .international-payment:after {
+  content: "Hi! \a Here are bank details to transfer to Conta Global \a (global account) at C6 Bank. C6 Bank details: \a Account holder: QUIERO TODO NATURAL \a Account number: 1008110097 \a Bank: BANCO C6 S.A. CAYMAN BRANCH \a Swift: CSIXKYKY \a Country: Cayman Islands \a Currency: Euro \a Intermediary bank details: \a Bank: JP Morgan SE, Frankfurt AM MAIN \a Swift: CHASDEFX \a\a Thank you!";
+  white-space: pre
+}
