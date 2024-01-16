@@ -6,6 +6,11 @@
             "destination": "/telomere-plus-suporte-enzimatico-para-saude-celular-enzymedica-30-capsulas",
             "type": 301
             },
+            {
+                "source": "/aniracetam-health-naturals-600mg-100-capsulas",
+                "destination": "/aniracetam-health-naturals-750mg-capsulas",
+                "type": 301
+                },
         {
             "source": "/dispositivo-vape-descartavel-autentico-ald-sunday-scaries-thc-o-mimosa",
             "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
