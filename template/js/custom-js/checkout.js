@@ -17,7 +17,7 @@ storefront.on('widget:@ecomplus/widget-tag-manager', function () {
 })
 
 setInterval(() => {
-    if (Number(window.sessionStorage.getItem('cart-check'))) {
+    if (Number(window.sessionStorage.getItem('cart-check')) && window.location.href.includes('cart')) {
         document.querySelector('.cart__btn-checkout').style.display = 'block'
     }
 }, 500)

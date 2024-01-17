@@ -110,7 +110,9 @@ import {
       restrictInstallments () {
         const arraySkus = window.creditCardRestrict
         if (this.items && this.items.length) {
-            return this.items.some(({ sku }) => arraySkus.includes(sku))
+          const skus = []
+          this.items.forEach(item => skus.push(item.sku))
+            return this.items.some(({ sku }) => arraySkus.includes(sku)) || arraySkus.some(sku => skus.some(skuItem => skuItem.includes(sku)))
         }
         return false 
       },
@@ -272,8 +274,7 @@ import {
             if (validated && !error) {
               let showOption = this.restrictInstallments
               response.payment_gateways.forEach(gateway => {
-                console.log(gateway)
-                showOption = showOption && gateway.payment_method.code === 'credit_card'
+                showOption = showOption && ((gateway.payment_method.code === 'credit_card') || (gateway.payment_method.code === 'balance_on_intermediary'))
                 const paymentGateway = {
                   app_id: appResult.app_id,
                   installment_option: this.installmentOption(gateway),
