@@ -112,7 +112,10 @@ import {
         if (this.items && this.items.length) {
           const skus = []
           this.items.forEach(item => skus.push(item.sku))
-            return this.items.some(({ sku }) => arraySkus.includes(sku)) || arraySkus.some(sku => skus.some(skuItem => skuItem.includes(sku)))
+            return this.items.some(({ sku }) => arraySkus.includes(sku)) || arraySkus.some(sku => skus.some(skuItem => {
+              const skuSplit = sku.split('-')
+              return skuItem.includes(sku) || skuSplit.some(split => skuItem.includes(split))
+            }))
         }
         return false 
       },
