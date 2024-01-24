@@ -192,6 +192,13 @@
         "LDH9569"
       ],
       "img": "/img/uploads/produto-restrito-envio-apenas-para-.png"
+    },
+    {
+      "img": "/img/uploads/subtitulo.png",
+      "id": "envio",
+      "skus": [
+        "ECFHNN"
+      ]
     }
   ]
 }
