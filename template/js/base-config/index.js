@@ -68,6 +68,7 @@ export default options => {
     collections: [
       getSettings(options),
       getPages(options),
+      getSections(options),
       options.layout,
       getBlogPosts(options),
       getExtraPages(options),
