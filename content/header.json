@@ -19,6 +19,11 @@
     "full_width": false
   },
   "desktop_megamenu": true,
+  "filter-list": {
+    "products": [
+      "65b014122cd6b659590f9981"
+    ]
+  },
   "search_input": true,
   "alphabetical_order_submenu": true,
   "full_width_submenu": false,
