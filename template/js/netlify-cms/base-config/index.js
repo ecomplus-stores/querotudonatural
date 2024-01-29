@@ -66,10 +66,10 @@ export default options => {
       sanitize_replacement: "-"
     },
     collections: [
-      getSettings(options),
-      getPages(options),
       getSections(options),
+      getSettings(options),
       options.layout,
+      getPages(options),
       getBlogPosts(options),
       getExtraPages(options),
       getWidgets(options)
