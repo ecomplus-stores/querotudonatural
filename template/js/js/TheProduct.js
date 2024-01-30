@@ -246,6 +246,10 @@ import {
 
       restrictInstallments () {
         const arraySkus = window.creditCardRestrict
+        const arrayIds = JSON.parse(window.sessionStorage.getItem('restrictIds'))
+        if (arrayIds && arrayIds.length) {
+          return arrayIds.some(id => id === this.body._id)
+        }
         return arraySkus.some(sku => sku === this.body.sku)
       },
   

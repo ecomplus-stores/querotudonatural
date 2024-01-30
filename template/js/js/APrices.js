@@ -84,7 +84,13 @@ import {
 
       restrictInstallments () {
         const arraySkus = window.creditCardRestrict
+        const arrayIds = JSON.parse(window.sessionStorage.getItem('restrictIds'))
         const { ecomCart } = window
+        if (this.product.sku) {
+          return arrayIds.some(ids => ids === this.product._id)
+        } else if (ecomCart && ecomCart.data && ecomCart.data.items && ecomCart.data.items.length) {
+            return ecomCart.data.items.some(({ product_id }) => arrayIds.includes(product_id))
+        }
         if (this.product.sku) {
             return arraySkus.some(sku => sku === this.product.sku)
         } else if (ecomCart && ecomCart.data && ecomCart.data.items && ecomCart.data.items.length) {

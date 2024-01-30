@@ -109,8 +109,14 @@ import {
 
       restrictInstallments () {
         const arraySkus = window.creditCardRestrict
+        const arrayIds = JSON.parse(window.sessionStorage.getItem('restrictIds'))
         if (this.items && this.items.length) {
           const skus = []
+          const ids = []
+          if (arrayIds && arrayIds.length) {
+            this.items.forEach(item => ids.push(item.product_id))
+            return this.items.some(({ product_id }) => arrayIds.includes(product_id))
+          }
           this.items.forEach(item => skus.push(item.sku))
             return this.items.some(({ sku }) => arraySkus.includes(sku)) || arraySkus.some(sku => skus.some(skuItem => {
               const skuSplit = sku.split('-')
