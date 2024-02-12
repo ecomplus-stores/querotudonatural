@@ -318,7 +318,7 @@ import {
         const arraySkus = window.creditCardRestrict
         const arrayIds = this.restrictIds
         const { ecomCart } = window
-        if (this.product.sku) {
+        if (this.product.sku && !this.product.product_id) {
           return arrayIds.some(ids => ids === this.product._id)
         } else if (ecomCart && ecomCart.data && ecomCart.data.items && ecomCart.data.items.length) {
             return ecomCart.data.items.some(({ product_id }) => arrayIds.includes(product_id))

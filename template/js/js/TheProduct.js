@@ -515,7 +515,8 @@ import {
         }
         return {
           ...ghostProduct,
-          ...prices
+          ...prices,
+          product_id: this.body._id
         }
       },
   
@@ -701,7 +702,7 @@ import {
                   .reduce((paymentOptions, appResult) => {
                     if (appResult.validated) {
                         console.log(appResult)
-                        if (this.restrictInstallments && appResult.response && appResult.response.payment_gateways && appResult.response.payment_gateways.length && appResult.response.payment_gateways[0].payment_method.code !== 'credit_card') {
+                        if (this.restrictInstallments && appResult.response && appResult.response.payment_gateways && appResult.response.payment_gateways.length && (appResult.response.payment_gateways[0].payment_method.code !== 'credit_card' && appResult.response.payment_gateways[0].payment_method.code !== 'balance_on_intermediary')) {
                             paymentOptions.push({
                                 app_id: appResult.app_id,
                                 ...appResult.response
