@@ -164,6 +164,7 @@ import {
         kitItems: [],
         currentTimer: null,
         restrictIds: [
+          "65ec925e87ab487fbfdd9152",
           "65ddd50187ab487fbfca1ffd",
     "657e44622cd6b65959e0225b",
           "627be2da3da6d37bc22e3a8a",
