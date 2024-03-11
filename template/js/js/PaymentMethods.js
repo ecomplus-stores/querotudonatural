@@ -86,7 +86,6 @@ import {
         selectedGateway: -1,
         loadedClients: {},
         restrictIds: [
-          "65ec925e87ab487fbfdd9152",  
           "65ec925e87ab487fbfdd9152",
           "627be2da3da6d37bc22e3a8a",
     "627be2863da6d37bc22e3914",
