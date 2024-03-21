@@ -71,6 +71,8 @@ import {
         pointsMinPrice: 0,
         earnPointsFactor: 0,
         restrictIds: [
+          "65fc7c4008d55b3b783bb6cd",
+          "65fc8bd808d55b3b783bd71a",
           "65ec925e87ab487fbfdd9152",
           "627be2da3da6d37bc22e3a8a",
     "627be2863da6d37bc22e3914",
