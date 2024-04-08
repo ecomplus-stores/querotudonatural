@@ -165,6 +165,8 @@ import {
         currentTimer: null,
         restrictIds: [
           "65fc7c4008d55b3b783bb6cd",
+          "66118e450fc534303df1131e",
+          "649437c95e6069037044ad0a",
           "65fc8bd808d55b3b783bd71a",
           "65ec925e87ab487fbfdd9152",
           "65ddd50187ab487fbfca1ffd",
