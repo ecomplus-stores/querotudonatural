@@ -71,7 +71,17 @@ import {
         pointsMinPrice: 0,
         earnPointsFactor: 0,
         restrictIds: [
-          "65fc7c4008d55b3b783bb6cd",
+          "65fc7c4008d55b3b783bb6cd","648bb35a5e606903703b70f4",
+"648993b45e6069037038aed3",
+"6650e59df4e6d85ab2933cef",
+"6570f8ec2cd6b65959d056df",
+"6489a3795e6069037038c77c",
+"65298f342cd6b659597961c4",
+"627be6863da6d37bc22e4a24",
+"627be6ef3da6d37bc22e4c2a",
+"627be71b3da6d37bc22e4d40",
+"6491e4135e606903704194ba",
+"64898a745e6069037038aa92"
           "65fc8bd808d55b3b783bd71a",
           "66118e450fc534303df1131e",
 "6650e59df4e6d85ab2933cef",
