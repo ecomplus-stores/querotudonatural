@@ -5,7 +5,6 @@ const pathDslAlias = path.resolve(dirSearchAlias, 'dsl')
 module.exports = () => ({
   resolve: {
     alias: {
-      './base-config': path.resolve(__dirname, 'template/js/netlify-cms/base-config'),
       './methods/set-search-term': path.resolve(dirSearchAlias, 'set-search-term'),
         './html/APrices.html': path.resolve(__dirname, 'template/js/html/APrices.html'),
         './js/APrices.js': path.resolve(__dirname, 'template/js/js/APrices.js'),
