@@ -292,11 +292,6 @@
         "type": 301
     },
     {
-        "source": "/cartucho-thc-com-rosca-510-big-chief-1g",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-    },
-    {
         "source": "/cartucho-vape-cbd-ativo-neutractiv-tosse-morango-raw-cannabinoid-800mg",
         "destination": "/cartucho-live-resin-delta-8-tre-house",
         "type": 301
@@ -316,12 +311,7 @@
         "destination": "/cartucho-live-resin-delta-8-tre-house",
         "type": 301
     },
-    {
-        "source": "/cartucho-vape-descartavel-thc-o-divine-hemp-1g",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-    },
-    {
+   {
         "source": "/cartucho-vazio-wickless-0-5ml-ou-1ml-510-fio-vidro",
         "destination": "/cartucho-live-resin-delta-8-tre-house",
         "type": 301
@@ -353,16 +343,6 @@
     },
     {
         "source": "/kit_viper_cbd",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-    },
-    {
-        "source": "/vape-descartavel-delta-8-blue-moon-hemp-1g",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-    },
-    {
-        "source": "/vape_espectro_completo_organico_hemplucid_30ml",
         "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
         "type": 301
     },
