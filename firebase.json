@@ -46,17 +46,7 @@
             "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
             "type": 301
         },
-        {
-            "source": "/bateria-vape-pen-drive-the-kind-pen-twist-510-fios",
-            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-            "type": 301
-        },
-        {
-            "source": "/caneta-barra-descartavel-delta-8-thc-thc-o-thc-p-koi-2-gramas",
-            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-            "type": 301
-        },
-        {
+         {
             "source": "/idelta_delta_10_preroll_125g",
             "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
             "type": 301
@@ -112,16 +102,6 @@
             "type": 301
         },
         {
-            "source": "/caneta-vape-descartavel-hhc-o-de-alta-potencia",
-            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-            "type": 301
-        },
-        {
-            "source": "/caneta-vape-descartavel-recarregavel-delta-10-thc-o-wild-orchard-1-grama",
-            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-            "type": 301
-        },
-        {
             "source": "/caneta-vape-descartavel-supermoon-d8–d10–hhc–thc-o-1-grama",
             "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
             "type": 301
@@ -133,26 +113,6 @@
         },
         {
             "source": "/caneta-vape-descartavel-thc-p-sativa-indica-hibrida-ideltax-1-grama-completa",
-            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-            "type": 301
-        },
-        {
-            "source": "/caneta-vape-recarregavel-e-descartavel-delta-8–thc-a-e-thc-b-fire-cannabis-inferno-blend-3g",
-            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-            "type": 301
-        },
-        {
-            "source": "/caneta-vaping-descartavel-delta-8-thc-chill-plus-900mg",
-            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-            "type": 301
-        },
-        {
-            "source": "/caneta-ideltax-descartavel-delta-10-vape-full-gram",
-            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-            "type": 301
-        },
-        {
-            "source": "/caneta-vaporizadora-thc-de-resina-viva-alta-potencia-thc-p–hhc–delta-8-koi-5g",
             "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
             "type": 301
         },
@@ -187,16 +147,6 @@
         "type": 301
     },
     {
-        "source": "/cartucho-de-delta-8-thc-treetop-hemp-co-800mg",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-    },
-    {
-        "source": "/cartucho-de-delta-8-thc-urb-finest-flowers",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-    },
-    {
         "source": "/cartucho-de-oleo-cbd-destilado-cbd-active-275mg-fio-510-1-unidade",
         "destination": "/cartucho-live-resin-delta-8-tre-house",
         "type": 301
@@ -217,22 +167,12 @@
         "type": 301
     },
     {
-        "source": "/cartucho-de-vape-mellow-fellow-thc-o-950mg",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-    },
-    {
         "source": "/cartucho-delta-8-jgo-1-grama",
         "destination": "/cartucho-live-resin-delta-8-tre-house",
         "type": 301
     },
     {
         "source": "/cartucho-delta-8-rosca-510-resina-live-1350mg15g-1-cartucho",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-    },
-    {
-        "source": "/cartucho-delta-8-thc-designer-urb-finest-flowers-1g",
         "destination": "/cartucho-live-resin-delta-8-tre-house",
         "type": 301
     },
