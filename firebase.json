@@ -22,11 +22,6 @@
             "type": 301
             },
             {
-            "source": "/dispositivo-descartavel-vape-blend-delta-8-thc-delta-10-thc-thc-o-thc-v-e-thc-p-urb-infinity–2g",
-            "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-            "type": 301
-            },
-        {
             "source": "/caneta-vape-delta-9-thc-cbn-purple-punch-indica",
             "destination": "/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc-calmante",
             "type": 301
@@ -139,11 +134,6 @@
         {
             "source": "/caneta-vape-descartavel-thc-p-sativa-indica-hibrida-ideltax-1-grama-completa",
             "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-            "type": 301
-        },
-        {
-            "source": "/caneta-vape-para-ansiedade-oleo-vaporizador-descartavel-thc-o-divine-hemp-2g",
-            "destination": "/dcaneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
             "type": 301
         },
         {
@@ -363,11 +353,6 @@
     },
     {
         "source": "/kit_viper_cbd",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-    },
-    {
-        "source": "/poderosa-caneta-vape-cbd-de-calor-variavel-compativel-com-rosca-510",
         "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
         "type": 301
     },
