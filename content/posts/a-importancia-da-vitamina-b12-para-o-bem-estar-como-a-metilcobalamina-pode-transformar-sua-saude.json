@@ -4,5 +4,11 @@
   "title": "A Importância da Vitamina B12 para o Bem-Estar: Como a Metilcobalamina Pode Transformar Sua Saúde",
   "meta_title": "A Importância da Vitamina B12 para o Bem-Estar: Como a Metilcobalamina Pode Transformar Sua Saúde",
   "meta_description": "A suplementação adequada de vitamina B12 metilcobalamina é uma maneira eficaz de corrigir deficiências e garantir que o seu corpo funcione de maneira ideal. Produtos de alta qualidade, como os oferecidos na Querotudonatural, podem ser a chave para melhorar a sua saúde geral e o seu bem-estar.",
-  "thumbnail": "/img/uploads/importancia-da-vitamina-b12-para-o-bem-estar.webp"
+  "thumbnail": "/img/uploads/importancia-da-vitamina-b12-para-o-bem-estar.webp",
+  "sections": [
+    {
+      "type": "blog-post",
+      "enabled": true
+    }
+  ]
 }
