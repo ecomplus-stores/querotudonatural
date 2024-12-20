@@ -25,7 +25,7 @@
   white-space: pre
 }
 
-@media (max-width: 767px) {
+@media (min-width: 767px) {
   .search__input {
     color: #fff !important; 
   }
