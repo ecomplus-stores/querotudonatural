@@ -25,6 +25,8 @@
   white-space: pre
 }
 
-.search__input {
-  color: #fff !important;
+@media (max-width: 767px) {
+  .search__input {
+    color: #fff !important; 
+  }
 }
