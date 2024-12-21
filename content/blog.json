@@ -1,14 +1,16 @@
 {
-  "title": "Blog",
-  "meta_title": "Blog",
-  "meta_description": "Blog",
+  "title": "Suplementos para Anti-Aging e Longevidade: Tratamentos Naturais para Doenças Crônicas - Blog QuerotudoNatural.com.br",
+  "meta_title": "Suplementos Anti-Aging e Longevidade | Tratamentos Naturais para Doenças Crônicas | QuerotudoNatural.com.br",
+  "meta_description": "Descubra os melhores suplementos para anti-aging, longevidade e tratamentos naturais para doenças crônicas. Cuide da sua saúde com produtos naturais no QuerotudoNatural.com.br",
   "sections": [
     {
       "type": "breadcrumbs",
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Suplementos Naturais para Anti-Aging, Longevidade e Tratamentos de Doenças Crônicas",
+      "description": "Explore suplementos naturais para combater o envelhecimento, promover longevidade e tratar doenças crônicas com soluções alternativas e eficazes"
     },
     {
       "type": "blog",
