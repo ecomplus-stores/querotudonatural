@@ -271,92 +271,92 @@
         "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
         "type": 301
     },
-{
-"source": "/cartucho-de-cbd/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
-"destination": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
-"type": 301
-},
-{
-"source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/cartucho-vape-delta-8-rosca-510-mystic-labs-1-grama-escolha-o-sabor",
-"destination": "/cartucho-vape-delta-8-rosca-510-mystic-labs-1-grama-escolha-o-sabor",
-"type": 301
-},
-{
-"source": "/curaderm/curaderm-BEC5-cura-para-cancer-de-pele-nao-melanoma",
-"destination": "/curaderm-bec5-cura-para-cancer-de-pele-nao-melanoma",
-"type": 301
-},
-{
-"source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
-"destination": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
-"type": 301
-},
-{
-"source": "/cartucho-de-vape-delta-8-thc-10x-grand-daddy-900mg",
-"destination": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
-"type": 301
-},
-{
-"source": "/especiais/cbd-medicinal/vapor-de-cbd/caneta-vape-e-kits-vaporizadores/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc",
-"destination": "/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc",
-"type": 301
-},
-{
-"source": "/nome_correto_delta9_thc_drops_cbn_mistura_doce_sonhos_30ml",
-"destination": "/oleo-delta-9-thc-drops-cbd-ultimate-chill-blend-30ml",
-"type": 301
-},
-{
-"source": "/nome_correto_delta9_thc_drops_cbd_ultimate_chill_blend_30ml",
-"destination": "/oleo-delta-9-thc-drops-cbd-ultimate-chill-blend-30ml",
-"type": 301
-},
-{
-"source": "/prevencao-e-tratamentos/doencas/cancer/p-blushwood-extrato-ebc-46-lipossomal-anti-cancer",
-"destination": "/p-blushwood-extrato-ebc-46-lipossomal-anti-cancer",
-"type": 301
-},
-{
-"source": "/especiais/cbd-medicinal/vapor-de-cbd/caneta-vape-e-kits-vaporizadores/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc",
-"destination": "/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc",
-"type": 301
-},
-  {
-"source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/cartucho-delta-8-thc-cleen-940mg-510-1-unidade",
-"destination": "/cartucho-delta-8-thc-cleen-940mg-510-1-unidade",
-"type": 301
-},
-{
-"source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/cartucho-510-delta-8-wild-orchard-400mg-escolha-o-sabor",
-"destination": "/cartucho-delta-8-wild-orchard-rosca-510-400mg",
-"type": 301
-},
-{
-"source": "/especiais/cbd-medicinal/vapor-de-cbd/cartucho-de-cbd/cartucho-de-vape-delta-8-thc-hibrido-indica-sativa-950mg",
-"destination": "/cartucho-de-vape-delta-8-thc-hibrido-indica-sativa-950mg",
-"type": 301
-},
-{
-"source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/cartucho-de-vape-delta-8-thc-10x-grand-daddy-900mg",
-"destination": "/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc-calmante",
-"type": 301
-},
-{
-"source": "/especiais/cbd-medicinal/vapor-de-cbd/cartucho-de-cbd/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
-"destination": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
-"type": 301
-},
+    {
+        "source": "/cartucho-de-cbd/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
+        "destination": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
+        "type": 301
+    },
+    {
+        "source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/cartucho-vape-delta-8-rosca-510-mystic-labs-1-grama-escolha-o-sabor",
+        "destination": "/cartucho-vape-delta-8-rosca-510-mystic-labs-1-grama-escolha-o-sabor",
+        "type": 301
+    },
+    {
+        "source": "/curaderm/curaderm-BEC5-cura-para-cancer-de-pele-nao-melanoma",
+        "destination": "/curaderm-bec5-cura-para-cancer-de-pele-nao-melanoma",
+        "type": 301
+    },
+    {
+        "source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
+        "destination": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
+        "type": 301
+    },
+    {
+       "source": "/cartucho-de-vape-delta-8-thc-10x-grand-daddy-900mg",
+       "destination": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
+       "type": 301
+    },
+    {
+       "source": "/especiais/cbd-medicinal/vapor-de-cbd/caneta-vape-e-kits-vaporizadores/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc",
+       "destination": "/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc",
+       "type": 301
+     },
+     {
+      "source": "/nome_correto_delta9_thc_drops_cbn_mistura_doce_sonhos_30ml",
+      "destination": "/oleo-delta-9-thc-drops-cbd-ultimate-chill-blend-30ml",
+      "type": 301
+      },
       {
-"source": "/cartucho-de-vape-delta-8-thc-zkittlez-indica-950mg",
-"destination": "/cartucho-de-vape-delta-8-thc-hibrido-indica-sativa-950mg",
-"type": 301
-},
-{
-"source": "/especiais/cbd-medicinal/vapor-de-cbd/cartucho-de-cbd/cartucho-de-vape-delta-8-thc-10x-grand-daddy-900mg",
-"destination": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
-"type": 301
-},
-{
+       "source": "/nome_correto_delta9_thc_drops_cbd_ultimate_chill_blend_30ml",
+       "destination": "/oleo-delta-9-thc-drops-cbd-ultimate-chill-blend-30ml",
+       "type": 301
+      },
+      {
+      "source": "/prevencao-e-tratamentos/doencas/cancer/p-blushwood-extrato-ebc-46-lipossomal-anti-cancer",
+      "destination": "/p-blushwood-extrato-ebc-46-lipossomal-anti-cancer",
+      "type": 301
+       },
+       {
+       "source": "/especiais/cbd-medicinal/vapor-de-cbd/caneta-vape-e-kits-vaporizadores/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc",
+       "destination": "/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc",
+       "type": 301
+       },
+       {
+       "source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/cartucho-delta-8-thc-cleen-940mg-510-1-unidade",
+       "destination": "/cartucho-delta-8-thc-cleen-940mg-510-1-unidade",
+       "type": 301
+       },
+       {
+        "source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/cartucho-510-delta-8-wild-orchard-400mg-escolha-o-sabor",
+        "destination": "/cartucho-delta-8-wild-orchard-rosca-510-400mg",
+        "type": 301
+       },
+       {
+        "source": "/especiais/cbd-medicinal/vapor-de-cbd/cartucho-de-cbd/cartucho-de-vape-delta-8-thc-hibrido-indica-sativa-950mg",
+        "destination": "/cartucho-de-vape-delta-8-thc-hibrido-indica-sativa-950mg",
+        "type": 301
+       },
+       {
+        "source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/cartucho-de-vape-delta-8-thc-10x-grand-daddy-900mg",
+        "destination": "/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc-calmante",
+        "type": 301
+       },
+       {
+       "source": "/especiais/cbd-medicinal/vapor-de-cbd/cartucho-de-cbd/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
+       "destination": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
+       "type": 301
+       },
+      {
+       "source": "/cartucho-de-vape-delta-8-thc-zkittlez-indica-950mg",
+       "destination": "/cartucho-de-vape-delta-8-thc-hibrido-indica-sativa-950mg",
+       "type": 301
+        },
+        {
+        "source": "/especiais/cbd-medicinal/vapor-de-cbd/cartucho-de-cbd/cartucho-de-vape-delta-8-thc-10x-grand-daddy-900mg",
+        "destination": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
+        "type": 301
+        },
+        {
 "source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/cartucho-de-vape-delta-8-thc-hibrido-indica-sativa-950mg",
 "destination": "/cartucho-de-vape-delta-8-thc-hibrido-indica-sativa-950mg",
 "type": 301
@@ -409,8 +409,87 @@
           "source": "/capsulas-de-dicloroacetato-de-sodio",
           "destination": "/dca-tratamento-cancer-dca-lab-capsulas",
           "type": 301
-          }
-
+          },
+      {
+  "source": "/vitamina-b17-amigdalina-laetrile-tratamento-natural-cancer",
+  "destination": "/p-vitamina-b17-amigdalina-laetrile-tratamento-natural-cancer",
+  "type": 301
+     },
+     {
+    "source": "/oxy-powder-limpeza-intestinal",
+    "destination": "/p-oxy-powder-limpeza-intestinal",
+    "type": 301
+    },
+    {
+  "source": "/progesterona-creme-progest-pro",
+  "destination": "/progesterona-creme-progest-pro-2500mg",
+  "type": 301
+    },
+    {
+  "source": "/vitaminas/vitamina-c",
+  "destination": "/suplementos-e-vitaminas/vitaminas-de-a-a-z/vitamina-c",
+  "type": 301
+    },
+    {
+  "source": "/vitaminas/vitamina-c/lipossomal",
+  "destination": "/onde-comprar-vitamina-c-lipossomal",
+  "type": 301
+    },
+    {
+  "source": "/aldosterona-spray",
+  "destination": "/p-spray-de-aldosterona-aldomax-naturalspro-600ui-por-dose-8ml",
+  "type": 301
+    },
+    {
+  "source": "/colosan-limpeza-intestino",
+  "destination": "/p-colosan-limpeza-intestino",
+  "type": 301
+    },
+    {
+  "source": "/cbd-medicinal/p-cbd-puro-oleo-capsulas-canabidiol-para-ansiedade",
+  "destination": "/p-cbd-puro-oleo-capsulas-canabidiol-para-ansiedade",
+  "type": 301
+    },
+    {
+  "source": "/colageno-tipo-i-ii-iii",
+  "destination": "/p-colageno-peptideos-tipo-i-ii-ii-iv-x-nature-life",
+  "type": 301
+    },
+    {
+  "source": "/huanarpo-macho-pharmacy",
+  "destination": "/p-huanarpo-macho-pharmacy",
+  "type": 301
+    },
+    {
+  "source": "/magnesio-mineral-ionico",
+  "destination": "/p-magnesium-ionico-alta-absorcao",
+  "type": 301
+    },
+    {
+  "source": "/n-tense-raintree",
+  "destination": "/p-n-tense-raintree-700-mg-120-capsules",
+  "type": 301
+   },
+   {
+  "source": "/prevencao-e-tratamentos/corpo/mente/melatonina/p-melatonina-3-mg-adrien",
+  "destination": "/p-melatonina-zinco-selenio-dr-pierpaoli",
+  "type": 301
+   },
+   {
+  "source": "/prevencao-e-tratamentos/corpo/mente/melatonina/p-melatonina-berkley-jensen-5mg",
+  "destination": "/p-melatonina-berkley-jensen-5mg",
+  "type": 301
+   },
+   {
+  "source": "/probiotico-inf",
+  "destination": "/probiotico-kids-gi-natural-sabor-delicioso-de-frutas-vermelhas-nature-s-plus-7-bilhoes-de-ufc-30-mastigaveis",
+  "type": 301
+   },
+   {
+  "source": "/tratamentos-naturais",
+  "destination": "/prevencao-e-tratamentos",
+  "type": 301
+    }
     ],
     "public": "dist",
     "ignore": [
