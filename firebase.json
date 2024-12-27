@@ -489,7 +489,87 @@
   "source": "/tratamentos-naturais",
   "destination": "/prevencao-e-tratamentos",
   "type": 301
-    }
+    },
+      {
+  "source": "/Produto-Alimentos-FuncionaisDepressao–Ansiedade-Oxicitocina-Sublingual-Oxytocin-Factor",
+  "destination": "/suplementos-e-vitaminas/equilibrio-hormonal/ocitocina",
+  "type": 301
+},
+{
+  "source": "/Produto-Alimentos-Funcionais-Energia–Fadiga-Whey-Protein-SEM-SABOR-Jarrow-Formulas-908-g-versao-701-701.aspx",
+  "destination": "/whey-de-cabra-de-pastagem-concentrada-de-proteina-de-soro-de-leite-de-cabra-enriquecida-com-proteinas-vitais-para-perda-de-peso-100-pura-kosher-natural-goods-1-lb",
+  "type": 301
+},
+{
+  "source": "/Produto-Alimentos-Funcionais-Omega-3-Oleo-de-Figado-de-Bacalhau-Noruegues-em-Liquido-Importado-Twinlab-sem-sabor-355-ml-versao-157-157.aspx",
+  "destination": "/prevencao-e-tratamentos/corpo/coracao/oleo-de-figado-de-bacalhau",
+  "type": 301
+},
+{
+  "source": "/Produto-Alimentos-Funcionais-Prevencao-do-Cancer-Vitamina-B-17-Amigdalina-Laetrile–100mg-100-tabletes-versao-449-449.aspx",
+  "destination": "/p-vitamina-b17-amigdalina-laetrile-tratamento-natural-cancer",
+  "type": 301
+},
+{
+  "source": "/Produto-Oleo-de-Figado-de-Bacalhau-Noruegues-em-Liquido-Importado-Twinlab-sem-sabor-355-ml-versao-157-157.aspx",
+  "destination": "/prevencao-e-tratamentos/corpo/coracao/oleo-de-figado-de-bacalhau",
+  "type": 301
+},
+{
+  "source": "/Produto-Vitaminas-Zinco-L-OptiZinc-Now-Foods-30-mg-100-Capsules-versao-1233-1234.aspx",
+  "destination": "/suplementos-e-vitaminas/minerais/zinco",
+  "type": 301
+},
+{
+  "source": "/Produto-Alimentos-Funcionais-Antioxidantes-BlueberryMirtillo-Concentrado-Super-Strength-Natural-Factors-500-mg-90-Softgels-versao-608-608.aspx",
+  "destination": "/extrato-de-mirtilo-puritan-s-pride-1000mg-180-capsulas",
+  "type": 301
+},
+{
+  "source": "/Produto-Alimentos-Funcionais-DHEA-7-Keto-LeanGels-Now-Foods-100mg-120-Softgels-versao-572-572.aspx",
+  "destination": "/suplementos-e-vitaminas/equilibrio-hormonal/7-keto-dhea-100mg",
+  "type": 301
+},
+{
+  "source": "/Produto-Alimentos-Funcionais-Probioticos-Enzimas-Digestivas-com-Prebioticos-e-Probioticos-Rainbow-Light-90-Vcaps-versao-699-699.aspx",
+  "destination": "/prevencao-e-tratamentos/corpo/estomago/enzimas",
+  "type": 301
+},
+{
+  "source": "/Produto-Alimentos-Funcionais-Saude-da-Pele-Silica-Complex-Now-Foods-500-mg-180-Tablets-versao-229-229.aspx",
+  "destination": "/prevencao-e-tratamentos/corpo/pele-unhas-e-cabelo",
+  "type": 301
+},
+{
+  "source": "/Produto-Alimentos-Funcionais-Saude-da-Prostata-Saw-Palmetto-600-mg-Eclectic-Institute-240-Veggie-Caps-versao-344-344.aspx",
+  "destination": "/prevencao-e-tratamentos/corpo/prostata/saw-palmetto",
+  "type": 301
+},
+{
+  "source": "/Produto-Cosmeticos-Naturais-Pele-Desodorante-Crystal-Body-Crystal-Stick-35-oz-100-g-versao-508-508.aspx",
+  "destination": "/cuidados-pessoais",
+  "type": 301
+},
+{
+  "source": "/Produto-Cosmeticos-Naturais-Rosto-Tonico-Pos-Barba-Rose-Petal-Witch-Hazel-com-Aloe-Vera-Thayers-355-ml-versao-491-491.aspx",
+  "destination": "/cuidados-pessoais",
+  "type": 301
+},
+{
+  "source": "/Produto-Vitaminas-Vitamina-B-Methylcobalamin-B-12-Now-Foods-1000-mcg-100-Lozenges-versao-669-669.aspx",
+  "destination": "/suplementos-e-vitaminas/vitaminas-de-a-a-z/vitamina-b12",
+  "type": 301
+},
+{
+  "source": "/SubCategoria-Cranberry-165.aspx",
+  "destination": "/prevencao-e-tratamentos/doencas/infeccao-urinaria/cranberry",
+  "type": 301
+},
+{
+  "source": "/100-capsulas-de-alicina-em-po-allimax-180-mg-30-veggie-caps",
+  "destination": "/spray-alicina",
+  "type": 301
+}
     ],
     "public": "dist",
     "ignore": [
