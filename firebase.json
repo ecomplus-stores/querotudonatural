@@ -489,11 +489,6 @@
   "source": "/tratamentos-naturais",
   "destination": "/prevencao-e-tratamentos",
   "type": 301
-    },
-    {
-   "source": "",
-   "destination": "",
-   "type": 301
     }
     ],
     "public": "dist",
