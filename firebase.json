@@ -569,6 +569,11 @@
   "source": "/100-capsulas-de-alicina-em-po-allimax-180-mg-30-veggie-caps",
   "destination": "/spray-alicina",
   "type": 301
+},
+{
+  "source": "/Produto-Alimentos-Funcionais-Energia–Fadiga-Whey-Protein-SEM-SABOR-Jarrow-Formulas-908-g-versao-701-701.aspx",
+  "destination": "/whey-protein?origem=whey-protein-sem-sabor",
+  "type": 301
 }
     ],
     "public": "dist",
