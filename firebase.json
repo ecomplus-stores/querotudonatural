@@ -1,6 +1,11 @@
 {
   "hosting": {
     "redirects": [
+      {
+        "source": "/Produto-Alimentos-Funcionais-Depressao–Ansiedade-Oxicitocina-Sublingual-Oxytocin-Factor-75ml-versao-1157-1158.aspx",
+        "destination": "/suplementos-e-vitaminas/equilibrio-hormonal/ocitocina",
+        "type": 301
+      },
         {
             "source": "/telomero-mais-enzima-natural-que-alonga-os-telomeros-e-os-protege-do-encurtamento-enzymedica-45g-30-capsulas",
             "destination": "/telomere-plus-suporte-enzimatico-para-saude-celular-enzymedica-30-capsulas",
@@ -572,7 +577,7 @@
 },
 {
   "source": "/Produto-Alimentos-Funcionais-Energia–Fadiga-Whey-Protein-SEM-SABOR-Jarrow-Formulas-908-g-versao-701-701.aspx",
-  "destination": "/whey-protein?origem=whey-protein-sem-sabor",
+  "destination": "/whey-protein",
   "type": 301
 }
     ],
