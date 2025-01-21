@@ -2,13 +2,13 @@
   "hosting": {
     "redirects": [
       {
-        "source": "/Produto-Alimentos-Funcionais-Depressao–Ansiedade-Oxicitocina-Sublingual-Oxytocin-Factor-75ml-versao-1157-1158.aspx",
-        "destination": "/suplementos-e-vitaminas/equilibrio-hormonal/ocitocina",
+        "source": "/100-capsulas-de-alicina-em-po-allimax-180-mg-30-veggie-caps",
+        "destination": "/spray-alicina",
         "type": 301
       },
       {
-        "source": "/telomero-mais-enzima-natural-que-alonga-os-telomeros-e-os-protege-do-encurtamento-enzymedica-45g-30-capsulas",
-        "destination": "/telomere-plus-suporte-enzimatico-para-saude-celular-enzymedica-30-capsulas",
+        "source": "/aldosterona-spray",
+        "destination": "/p-spray-de-aldosterona-aldomax-naturalspro-600ui-por-dose-8ml",
         "type": 301
       },
       {
@@ -17,92 +17,12 @@
         "type": 301
       },
       {
-        "source": "/dispositivo-vape-descartavel-autentico-ald-sunday-scaries-thc-o-mimosa",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/dispositivo-descartavel-thc-o-golden-milk",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/caneta-vape-delta-9-thc-cbn-purple-punch-indica",
-        "destination": "/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc-calmante",
-        "type": 301
-      },
-      {
-        "source": "/barra-vape-descartavel-koi-cbd-100mg-sabores",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/kit-de-bateria-eliteheat-ftp-para-vaporizador-pure-cbd-vapors",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/bateria-inteligente-de-ftp-para-modulo-vaporizador-pure-cbd-vapors",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/bateria-slim-pen-twist-smart-usb-branco-ooze-100g",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/idelta_delta_10_preroll_125g",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/caneta-descartavel-vape-full-thco-1-grama",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/caneta-slim-oil-premium-cbd-tensao-variavel-para-oleos-mais-grossos",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/caneta-vape-alibi-thc-o-descartavel-super-diesel-acido-800mg",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/caneta-vape-azul-raspberry-cbd-250mg",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/caneta-vape-cbd-menta-fresca-250mg",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/caneta-vape-delta-8-descartavel-idelta-grama-completa",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+        "source": "/bateria-de-torcao-de-510-fios-para-caneta-vape-kannastar",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
         "type": 301
       },
       {
         "source": "/caneta-vape-descartavel-cbd-puro-350mg-espectro-total-uncut—1-unidade",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/caneta-vape-descartavel-cbd-blue-moon-hemp-purple-haze-1g-1000mg-1-unidade",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/caneta-vape-descartavel-delta-8-hempwholistix-1ml",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/caneta-vape-descartavel-hhc-full-gram-sem-vg-pg-e-mct-ideltax-1g",
         "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
         "type": 301
       },
@@ -112,303 +32,8 @@
         "type": 301
       },
       {
-        "source": "/caneta-vape-descartavel-thc-de-uso-prolongado-x-cube-hemp-and-friend-3g",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/caneta-vape-descartavel-thc-p-sativa-indica-hibrida-ideltax-1-grama-completa",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/cartucho-cbd-feito-com-enzactiv-vape-donut-e-maca-920mg",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-      },
-      {
-        "source": "/cartucho-cbd-x3-people-0-5ml-500mg-83-1-unidade",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-      },
-      {
-        "source": "/cartucho-de-delta-10-thc-happi-1100mg",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-      },
-      {
-        "source": "/cartucho-de-delta-8-thc-descartavel-curevana-900mg",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-      },
-      {
-        "source": "/disposable-just-delta-8-1000mg",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-      },
-      {
-        "source": "/cartucho-de-delta-8-thc-delta-effex",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-      },
-      {
-        "source": "/cartucho-de-oleo-cbd-destilado-cbd-active-275mg-fio-510-1-unidade",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-      },
-      {
-        "source": "/cartucho-de-oleo-destilado-vape-delta-9-thc-1-grama",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-      },
-      {
-        "source": "/cartucho-de-vape-delta-8-thc-10x-grand-daddy-900mg",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-      },
-      {
-        "source": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-      },
-      {
-        "source": "/cartucho-delta-8-jgo-1-grama",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-      },
-      {
-        "source": "/cartucho-delta-8-rosca-510-resina-live-1350mg15g-1-cartucho",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-      },
-      {
-        "source": "/cartucho-delta-8-thc-cbd-pharm-1g",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-      },
-      {
-        "source": "/cartucho-delta-8-thc-o-e-thc-p-para-caneta-vaporizadora-permatrip-jgo-1-grama",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-      },
-      {
-        "source": "/vape-cbd-activo-cannabis-neutractiv-canabinoide-bruto-descartavel-sour-diesel-800mg",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-      },
-      {
-        "source": "/cartucho-para-caneta-vaporizadora-rosca-510-jolly-green-oil-cbd-delta-8-e-thc-p-sativa-indica-hibrido-1g",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-      },
-      {
-        "source": "/cartucho-rosca-510-blend-de-delta-10-com-thc-o-sativa-indica-e-hibrido-wild-orchard-1350mg-15g",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-      },
-      {
-        "source": "/cartucho-vape-cbd-ativo-neutractiv-tosse-morango-raw-cannabinoid-800mg",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-      },
-      {
-        "source": "/cartucho-cbd-1-1-1-grama-de-vape-delta-8-idelta8-gold-rosca-510",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-      },
-      {
-        "source": "/cartucho-vape-delta-8-blue-moon-hemp",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-      },
-      {
-        "source": "/cartucho-vape-delta-8-rosca-510-mystic-labs-1-grama-escolha-o-sabor",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-      },
-      {
-        "source": "/cartucho-vazio-wickless-0-5ml-ou-1ml-510-fio-vidro",
-        "destination": "/cartucho-live-resin-delta-8-tre-house",
-        "type": 301
-      },
-      {
-        "source": "/cbd-modulo-vaporizador-calmante-pure-cbd-vapors-2-modulos-100mg",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/cbd-caneta-vaporizadora-x3-pure-cbd-vapors-405mg",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/kit-vape-com-espectro-completo-cleen-cbd-275mg-ou-550mg",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/cbd-kit-vaporizador-sabor-cookies-pure-cbd-vapors-650-mg-1-ml",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/kit_vipe_cbd_cartucho_v2",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/kit_viper_cbd",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/vaporizado-cookies-x-g-pen-connect-edicao-limitada",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/vaporizador-de-nevoa-de-cbd-funciona-com-qualquer-oleo-de-vapor-de-cbd",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/vaporizador-wulf-next-azul-wulf-mods",
-        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
-        "type": 301
-      },
-      {
-        "source": "/cartucho-de-cbd/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
-        "destination": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
-        "type": 301
-      },
-      {
-        "source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/cartucho-vape-delta-8-rosca-510-mystic-labs-1-grama-escolha-o-sabor",
-        "destination": "/cartucho-vape-delta-8-rosca-510-mystic-labs-1-grama-escolha-o-sabor",
-        "type": 301
-      },
-      {
-        "source": "/curaderm/curaderm-BEC5-cura-para-cancer-de-pele-nao-melanoma",
-        "destination": "/curaderm-bec5-cura-para-cancer-de-pele-nao-melanoma",
-        "type": 301
-      },
-      {
-        "source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
-        "destination": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
-        "type": 301
-      },
-      {
-        "source": "/cartucho-de-vape-delta-8-thc-10x-grand-daddy-900mg",
-        "destination": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
-        "type": 301
-      },
-      {
-        "source": "/especiais/cbd-medicinal/vapor-de-cbd/caneta-vape-e-kits-vaporizadores/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc",
-        "destination": "/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc",
-        "type": 301
-      },
-      {
-        "source": "/nome_correto_delta9_thc_drops_cbn_mistura_doce_sonhos_30ml",
-        "destination": "/oleo-delta-9-thc-drops-cbd-ultimate-chill-blend-30ml",
-        "type": 301
-      },
-      {
-        "source": "/nome_correto_delta9_thc_drops_cbd_ultimate_chill_blend_30ml",
-        "destination": "/oleo-delta-9-thc-drops-cbd-ultimate-chill-blend-30ml",
-        "type": 301
-      },
-      {
-        "source": "/prevencao-e-tratamentos/doencas/cancer/p-blushwood-extrato-ebc-46-lipossomal-anti-cancer",
-        "destination": "/p-blushwood-extrato-ebc-46-lipossomal-anti-cancer",
-        "type": 301
-      },
-      {
-        "source": "/especiais/cbd-medicinal/vapor-de-cbd/caneta-vape-e-kits-vaporizadores/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc",
-        "destination": "/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc",
-        "type": 301
-      },
-      {
-        "source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/cartucho-delta-8-thc-cleen-940mg-510-1-unidade",
-        "destination": "/cartucho-delta-8-thc-cleen-940mg-510-1-unidade",
-        "type": 301
-      },
-      {
-        "source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/cartucho-510-delta-8-wild-orchard-400mg-escolha-o-sabor",
-        "destination": "/cartucho-delta-8-wild-orchard-rosca-510-400mg",
-        "type": 301
-      },
-      {
-        "source": "/especiais/cbd-medicinal/vapor-de-cbd/cartucho-de-cbd/cartucho-de-vape-delta-8-thc-hibrido-indica-sativa-950mg",
-        "destination": "/cartucho-de-vape-delta-8-thc-hibrido-indica-sativa-950mg",
-        "type": 301
-      },
-      {
-        "source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/cartucho-de-vape-delta-8-thc-10x-grand-daddy-900mg",
-        "destination": "/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc-calmante",
-        "type": 301
-      },
-      {
-        "source": "/especiais/cbd-medicinal/vapor-de-cbd/cartucho-de-cbd/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
-        "destination": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
-        "type": 301
-      },
-      {
-        "source": "/cartucho-de-vape-delta-8-thc-zkittlez-indica-950mg",
-        "destination": "/cartucho-de-vape-delta-8-thc-hibrido-indica-sativa-950mg",
-        "type": 301
-      },
-      {
-        "source": "/especiais/cbd-medicinal/vapor-de-cbd/cartucho-de-cbd/cartucho-de-vape-delta-8-thc-10x-grand-daddy-900mg",
-        "destination": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
-        "type": 301
-      },
-      {
-        "source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/cartucho-de-vape-delta-8-thc-hibrido-indica-sativa-950mg",
-        "destination": "/cartucho-de-vape-delta-8-thc-hibrido-indica-sativa-950mg",
-        "type": 301
-      },
-      {
-        "source": "/cartucho-vape-cbd-ativo-neutractiv-tosse-morango-raw-cannabinoid-800mg",
-        "destination": "/vape-cbd-activo-cannabis-neutractiv-canabinoide-bruto-descartavel-sour-diesel-800mg",
-        "type": 301
-      },
-      {
-        "source": "/nad-crystal-star-60-capsulas",
-        "destination": "/nad-patenteado-suplemento-para-energia-celular-e-envelhecimento-saudavel-crystal-star-68g-60-capsulas",
-        "type": 301
-      },
-      {
         "source": "/caneta-vape-descartavel-thc-o-divine-hemp-2g",
-        "destination": "/caneta-vape-para-ansiedade-oleo-vaporizador-descartavel-thc-o-divine-hemp-2g",
-        "type": 301
-      },
-      {
-        "source": "/vitamina-b-100-complexo-alta-potencia-sustentada-liberacao-vitamina-b1-b2-b3-b6-b9-acido-folico-b12-250-comprimidos",
-        "destination": "/probiotico-com-100-bilhoes-de-culturas-e-100-cepas-probioticos-de-alta-potencia-vital-planet",
-        "type": 301
-      },
-      {
-        "source": "/nad-crystal-star-60-capsulas",
-        "destination": "/nad-patenteado-suplemento-para-energia-celular-e-envelhecimento-saudavel-crystal-star-68g-60-capsulas",
-        "type": 301
-      },
-      {
-        "source": "/extrato-de-semente-de-uva-24-000-mg-240-capsulas-carlyle",
-        "destination": "/extrato-de-semente-de-uva-carlyle-24-000-mg-240-capsulas",
-        "type": 301
-      },
-      {
-        "source": "/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc",
-        "destination": "/",
-        "type": 301
-      },
-      {
-        "source": "/caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc",
-        "destination": "/",
-        "type": 301
-      },
-      {
-        "source": "/dha-infantil-capsulas-mastigaveis",
-        "destination": "/dha-infantil-3-6-anos-morango-nordic-naturals-360-mini-capsulas-gelatinosas",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
         "type": 301
       },
       {
@@ -417,38 +42,18 @@
         "type": 301
       },
       {
-        "source": "/vitamina-b17-amigdalina-laetrile-tratamento-natural-cancer",
-        "destination": "/p-vitamina-b17-amigdalina-laetrile-tratamento-natural-cancer",
+        "source": "/cartucho-delta-8-thc-cbd-pharm-1g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
         "type": 301
       },
       {
-        "source": "/oxy-powder-limpeza-intestinal",
-        "destination": "/p-oxy-powder-limpeza-intestinal",
+        "source": "/cartucho-rosca-510-blend-de-delta-10-com-thc-o-sativa-indica-e-hibrido-wild-orchard-1350mg-15g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
         "type": 301
       },
       {
-        "source": "/progesterona-creme-progest-pro",
-        "destination": "/progesterona-creme-progest-pro-2500mg",
-        "type": 301
-      },
-      {
-        "source": "/vitaminas/vitamina-c",
-        "destination": "/suplementos-e-vitaminas/vitaminas-de-a-a-z/vitamina-c",
-        "type": 301
-      },
-      {
-        "source": "/vitaminas/vitamina-c/lipossomal",
-        "destination": "/onde-comprar-vitamina-c-lipossomal",
-        "type": 301
-      },
-      {
-        "source": "/aldosterona-spray",
-        "destination": "/p-spray-de-aldosterona-aldomax-naturalspro-600ui-por-dose-8ml",
-        "type": 301
-      },
-      {
-        "source": "/colosan-limpeza-intestino",
-        "destination": "/p-colosan-limpeza-intestino",
+        "source": "/cbd-caneta-vaporizadora-x3-pure-cbd-vapors-405mg",
+        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
         "type": 301
       },
       {
@@ -462,6 +67,56 @@
         "type": 301
       },
       {
+        "source": "/colosan-limpeza-intestino",
+        "destination": "/p-colosan-limpeza-intestino",
+        "type": 301
+      },
+      {
+        "source": "/curaderm/curaderm-BEC5-cura-para-cancer-de-pele-nao-melanoma",
+        "destination": "/curaderm-bec5-cura-para-cancer-de-pele-nao-melanoma",
+        "type": 301
+      },
+      {
+        "source": "/dha-infantil-capsulas-mastigaveis",
+        "destination": "/dha-infantil-3-6-anos-morango-nordic-naturals-360-mini-capsulas-gelatinosas",
+        "type": 301
+      },
+      {
+        "source": "/dispositivo-vape-descartavel-autentico-ald-sunday-scaries-thc-o-mimosa",
+        "destination": "/caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+        "type": 301
+      },
+      {
+        "source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
+        "destination": "/10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
+        "type": 301
+      },
+      {
+        "source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/cartucho-510-delta-8-wild-orchard-400mg-escolha-o-sabor",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/cartucho-delta-8-thc-cleen-940mg-510-1-unidade",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/cartucho-de-vape-delta-8-thc-10x-grand-daddy-900mg",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/cartucho-vape-delta-8-rosca-510-mystic-labs-1-grama-escolha-o-sabor",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "/extrato-de-semente-de-uva-24-000-mg-240-capsulas-carlyle",
+        "destination": "/extrato-de-semente-de-uva-carlyle-24-000-mg-240-capsulas",
+        "type": 301
+      },
+      {
         "source": "/huanarpo-macho-pharmacy",
         "destination": "/p-huanarpo-macho-pharmacy",
         "type": 301
@@ -472,8 +127,18 @@
         "type": 301
       },
       {
+        "source": "/nad-crystal-star-60-capsulas",
+        "destination": "/nad-patenteado-suplemento-para-energia-celular-e-envelhecimento-saudavel-crystal-star-68g-60-capsulas",
+        "type": 301
+      },
+      {
         "source": "/n-tense-raintree",
         "destination": "/p-n-tense-raintree-700-mg-120-capsules",
+        "type": 301
+      },
+      {
+        "source": "/oxy-powder-limpeza-intestinal",
+        "destination": "/p-oxy-powder-limpeza-intestinal",
         "type": 301
       },
       {
@@ -487,18 +152,33 @@
         "type": 301
       },
       {
+        "source": "/prevencao-e-tratamentos/doencas/cancer/p-blushwood-extrato-ebc-46-lipossomal-anti-cancer",
+        "destination": "/p-blushwood-extrato-ebc-46-lipossomal-anti-cancer",
+        "type": 301
+      },
+      {
         "source": "/probiotico-inf",
         "destination": "/probiotico-kids-gi-natural-sabor-delicioso-de-frutas-vermelhas-nature-s-plus-7-bilhoes-de-ufc-30-mastigaveis",
         "type": 301
       },
       {
-        "source": "/tratamentos-naturais",
-        "destination": "/prevencao-e-tratamentos",
+        "source": "/Produto-Alimentos-Funcionais-Antioxidantes-BlueberryMirtillo-Concentrado-Super-Strength-Natural-Factors-500-mg-90-Softgels-versao-608-608.aspx",
+        "destination": "/extrato-de-mirtilo-puritan-s-pride-1000mg-180-capsulas",
         "type": 301
       },
       {
         "source": "/Produto-Alimentos-FuncionaisDepressao–Ansiedade-Oxicitocina-Sublingual-Oxytocin-Factor",
         "destination": "/suplementos-e-vitaminas/equilibrio-hormonal/ocitocina",
+        "type": 301
+      },
+      {
+        "source": "/Produto-Alimentos-Funcionais-Depressao–Ansiedade-Oxicitocina-Sublingual-Oxytocin-Factor-75ml-versao-1157-1158.aspx",
+        "destination": "/suplementos-e-vitaminas/equilibrio-hormonal/ocitocina",
+        "type": 301
+      },
+      {
+        "source": "/Produto-Alimentos-Funcionais-DHEA-7-Keto-LeanGels-Now-Foods-100mg-120-Softgels-versao-572-572.aspx",
+        "destination": "/suplementos-e-vitaminas/equilibrio-hormonal/7-keto-dhea-100mg",
         "type": 301
       },
       {
@@ -514,26 +194,6 @@
       {
         "source": "/Produto-Alimentos-Funcionais-Prevencao-do-Cancer-Vitamina-B-17-Amigdalina-Laetrile–100mg-100-tabletes-versao-449-449.aspx",
         "destination": "/p-vitamina-b17-amigdalina-laetrile-tratamento-natural-cancer",
-        "type": 301
-      },
-      {
-        "source": "/Produto-Oleo-de-Figado-de-Bacalhau-Noruegues-em-Liquido-Importado-Twinlab-sem-sabor-355-ml-versao-157-157.aspx",
-        "destination": "/prevencao-e-tratamentos/corpo/coracao/oleo-de-figado-de-bacalhau",
-        "type": 301
-      },
-      {
-        "source": "/Produto-Vitaminas-Zinco-L-OptiZinc-Now-Foods-30-mg-100-Capsules-versao-1233-1234.aspx",
-        "destination": "/suplementos-e-vitaminas/minerais/zinco",
-        "type": 301
-      },
-      {
-        "source": "/Produto-Alimentos-Funcionais-Antioxidantes-BlueberryMirtillo-Concentrado-Super-Strength-Natural-Factors-500-mg-90-Softgels-versao-608-608.aspx",
-        "destination": "/extrato-de-mirtilo-puritan-s-pride-1000mg-180-capsulas",
-        "type": 301
-      },
-      {
-        "source": "/Produto-Alimentos-Funcionais-DHEA-7-Keto-LeanGels-Now-Foods-100mg-120-Softgels-versao-572-572.aspx",
-        "destination": "/suplementos-e-vitaminas/equilibrio-hormonal/7-keto-dhea-100mg",
         "type": 301
       },
       {
@@ -562,8 +222,23 @@
         "type": 301
       },
       {
+        "source": "/Produto-Oleo-de-Figado-de-Bacalhau-Noruegues-em-Liquido-Importado-Twinlab-sem-sabor-355-ml-versao-157-157.aspx",
+        "destination": "/prevencao-e-tratamentos/corpo/coracao/oleo-de-figado-de-bacalhau",
+        "type": 301
+      },
+      {
         "source": "/Produto-Vitaminas-Vitamina-B-Methylcobalamin-B-12-Now-Foods-1000-mcg-100-Lozenges-versao-669-669.aspx",
         "destination": "/suplementos-e-vitaminas/vitaminas-de-a-a-z/vitamina-b12",
+        "type": 301
+      },
+      {
+        "source": "/Produto-Vitaminas-Zinco-L-OptiZinc-Now-Foods-30-mg-100-Capsules-versao-1233-1234.aspx",
+        "destination": "/suplementos-e-vitaminas/minerais/zinco",
+        "type": 301
+      },
+      {
+        "source": "/progesterona-creme-progest-pro",
+        "destination": "/progesterona-creme-progest-pro-2500mg",
         "type": 301
       },
       {
@@ -572,13 +247,813 @@
         "type": 301
       },
       {
-        "source": "/100-capsulas-de-alicina-em-po-allimax-180-mg-30-veggie-caps",
-        "destination": "/spray-alicina",
+        "source": "/telomero-mais-enzima-natural-que-alonga-os-telomeros-e-os-protege-do-encurtamento-enzymedica-45g-30-capsulas",
+        "destination": "/telomere-plus-suporte-enzimatico-para-saude-celular-enzymedica-30-capsulas",
         "type": 301
       },
       {
-        "source": "/bateria-de-torcao-de-510-fios-para-caneta-vape-kannastar",
+        "source": "/tratamentos-naturais",
+        "destination": "/prevencao-e-tratamentos",
+        "type": 301
+      },
+      {
+        "source": "/vitamina-b-100-complexo-alta-potencia-sustentada-liberacao-vitamina-b1-b2-b3-b6-b9-acido-folico-b12-250-comprimidos",
+        "destination": "/probiotico-com-100-bilhoes-de-culturas-e-100-cepas-probioticos-de-alta-potencia-vital-planet",
+        "type": 301
+      },
+      {
+        "source": "/vitamina-b17-amigdalina-laetrile-tratamento-natural-cancer",
+        "destination": "/p-vitamina-b17-amigdalina-laetrile-tratamento-natural-cancer",
+        "type": 301
+      },
+      {
+        "source": "/vitaminas/vitamina-c",
+        "destination": "/suplementos-e-vitaminas/vitaminas-de-a-a-z/vitamina-c",
+        "type": 301
+      },
+      {
+        "source": "/vitaminas/vitamina-c/lipossomal",
+        "destination": "/onde-comprar-vitamina-c-lipossomal",
+        "type": 301
+      },
+      {
+        "source": "10x-cartucho-de-vape-delta-8-thc-sabor-morango-900mg-1ml",
         "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "barra-vape-descartavel-koi-cbd-100mg-sabores",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "bateria-inteligente-de-ftp-para-modulo-vaporizador-pure-cbd-vapors",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "bateria-slim-pen-twist-smart-usb-branco-ooze-100g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "bateria-vape-pen-drive-the-kind-pen-twist-510-fios",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-barra-descartavel-delta-8-thc-thc-o-thc-p-koi-2-gramas",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-canabidiol-vape-3000-puffs-descartavel-freddy-boyz-por-kidd-keo-edicao-limitada-10ml",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-canabidiol-vape-descartavel-americana-espectro-completo-sem-cortes-350mg",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-delta-10-descartavel-premium-hibrida-runtz-dimo-1g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-delta-9-thc-o-descartavel-urb-3ml",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-descartavel-delta-10-thc-o-thcp-resina-viva-indica-delta-extrax-morango-2-gramas",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-descartavel-delta-11-delta-9-thc-p-hidden-hills-2-gramas",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-descartavel-delta-8-dank-lite-2g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-descartavel-delta-8-delta-9-delta-10-thc-p-hhc-indica-divine-hemps-2g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-descartavel-h4cbd-95-concentrado-100-vezes-mais-potente-que-o-cbd-iguana-smoke-600-puffs-2ml",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-descartavel-hhc-lite-space-vape-iguana-smoke-2ml",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-descartavel-mistura-de-thc-jd-delta-11-thc-h-heavy-hitter-bake-35-gramas---1-unidade",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-descartavel-resina-viva-delta-8-thc-a-thc-p-hxy-9-good-extracts-5-gramas",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-descartavel-vape-delta-8-cbd-1-1-idelta-8-gold",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-descartavel-vape-full-thco-1-grama",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-descartavel-vape-sativa-hibrida-ou-indica-delta-9-thc-phc-thc-jd-thc-p-hydroxy-11-thc-delta-8-thc-resina-viva-cali-reserve-35g---1-unidade",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-de-thc-descartavel-miracle-alien-cookies-11-hydroxy-thc--thc-h-thcp-looper-lifted-series-2-gramas",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-ideltax-descartavel-delta-10-vape-full-gram",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-para-vaporizar-harmony-cbd-sem-cartucho-1-caneta",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-premium-cbd-vape-max-good-weeds-1200-baforadas",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-resina-viva-descartavel-thc-x--thc-p--hydroxy-11--delta-8-cali-reserve-3-gramas",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-slim-oil-premium-cbd-tensao-variavel-para-oleos-mais-grossos",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-thc-puro-sativa-descartavel-cookies-hibrida-indica-vader-800-puffs",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-thc-sativa-thcp-o-11-hydroxy-thc-thc-p-pineapple-og-looper-melted-series-2-gramas",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-alibi-thc-o-descartavel-super-diesel-acido-800mg",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-azul-raspberry-cbd-250mg",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-cbd-menta-fresca-250mg",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-delta-8-descartavel--cbd-21-idelta8-silver",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-delta-8-descartavel-idelta-grama-completa",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-delta-9-thc-cbn-purple-punch-indica",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-descartavel-10-oh-thc-95-canapuff",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-descartavel-cbd-blue-moon-hemp-purple-haze-1g-1000mg-1-unidade",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-descartavel-delta-8-com-delta-9-delta-10-e-thc-o-tre-house-2-gramas",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-descartavel-delta-8-divine-hemp-1g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-descartavel-delta-8-hempwholistix-1ml",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-descartavel-delta-8-live-resin-tre-house-2g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-descartavel-delta-8-livre-de-pg-peg-vg-mct-divine-hemp-2g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-descartavel-hhc-full-gram-sem-vg-pg-e-mct-ideltax-1g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-descartavel-hhc-full-gram-sem-vg-pg-e-mct-ideltax-1g-c365",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-descartavel-hhc-o-de-alta-potencia",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-descartavel-lava-cake-delta-9--thc-p-muito-forte-looper-lifted-series-2-gramas",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-descartavel-recarregavel-delta-10-thc-o-wild-orchard-1-grama",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-descartavel-supermoon-d8--d10--hhc--thc-o-1-grama",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-descartavel-thc-delta-8-live-resin--d10--thc-p-tre-house-2g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-descartavel-thc-de-uso-prolongado-x-cube-hemp-and-friend-3g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-descartavel-thc-p-sativa-indica-hibrida-ideltax-1-grama-completa",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-hhc-o-cali-e-dr-whisk3rs-2ml",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-para-ansiedade-oleo-vaporizador-descartavel-thc-o-divine-hemp-2g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-recarregavel-e-descartavel-delta-8--thc-a-e-thc-b-fire-cannabis-inferno-blend-3g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vape-thc-descartavel-hhc-de-alta-potencia-por-tre-house-2-gramas",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vaping-descartavel-delta-8-thc-chill-plus-900mg",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vaporizadora-800-baforadas-delta-9-thc-cbd-cbdfx-500mg-cbd-5mg-thc-calmante",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vaporizadora-descartavel-de-5-gramas-de-resina-viva-thc-a-thc-p-e-delta-11",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "caneta-vaporizadora-thc-de-resina-viva-alta-potencia-thc-p--hhc--delta-8-koi-5g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-cbd-1-1-1-grama-de-vape-delta-8-idelta8-gold-rosca-510",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-cbd-feito-com-enzactiv-vape-donut-e-maca-920mg",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-cbd-x3-people-0-5ml-500mg-83-1-unidade",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-de-caneta-thc-p-dab-da-kromood",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-de-delta-10-thc-happi-1100mg",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-de-delta-8-thc-delta-effex",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-de-delta-8-thc-descartavel-curevana-900mg",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-de-delta-8-thc-treetop-hemp-co-800mg",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-de-delta-8-thc-urb-finest-flowers",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-delta-10-thc-premium-hibrido-efeitos-estimulantes-e-euforicos-duradouro-dimo-runtz-1g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-delta-8-jgo-1-grama",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-delta-8-rosca-510-resina-live-1350mg15g-1-cartucho",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-delta-8-rosca-universal-510--920mg-1ml---1-unidade",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-delta-8-thc-cbd-pharm-1g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-delta-8-thc-cleen-940mg-510-1-unidade",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-delta-8-thc-delta-effex",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-delta-8-thc-designer-urb-finest-flowers-1g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-delta-8-thc-mellow-fellow-950mg",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-delta-8-thc-o-e-thc-p-para-caneta-vaporizadora-permatrip-jgo-1-grama",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-delta-8-thc-treetop-hemp-co-700mg",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-delta-8-thc-urb-finest-flowers-1ml",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-delta-8-wild-orchard-rosca-510-400mg",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-de-oleo-cbd-destilado-cbd-active-275mg-fio-510-1-unidade",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-de-oleo-destilado-vape-delta-9-thc-1-grama",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-de-resina-viva-delta-8-elyxr-la-1000mg-1-grama",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-de-resina-viva-thc-p-tre-house-1g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-descartavel-cbd-full-spectrum-iguana-1ml",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-de-vape-delta-8-thc-10x-grand-daddy-900mg",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-de-vape-delta-8-thc-hibrido-indica-sativa-950mg",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-de-vape-mellow-fellow-thc-o-950mg",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-live-resin-delta-8-tre-house",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-para-caneta-diamond-thc-a-delta-9-thc-p-hidden-hills-2-gramas",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-para-caneta-rosca-510-com-alto-teor-de-thc-contem-97-hhc-elevapes-1ml",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-para-caneta-rosca-510-delta-8-dank-lite-1g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-para-caneta-vaporizadora-rosca-510-jolly-green-oil-cbd-delta-8-e-thc-p-sativa-indica-hibrido-1g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-para-pod-rosca-universal-indica-thc-a-thc-p-sono-relaxamento-lava-cake-looper-lifted-series-2g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-pre-carregado-com-resina-viva-delta-8--delta-10--thc-p--tre-house-1g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-rosca-510-thc-sativa-cepa-amnesia-haze-thc-a--thcp-o-looper-lifted-series-2g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartuchos-hhc-p-thc-o-hhc-thc-p-thcp-o-thc-h-thc-b-11-hydroxy-thc-indica-hibrido-looper-melted-series-2-gramas",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-thc-com-rosca-510-big-chief-1g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-vape-cbd-ativo-neutractiv-tosse-morango-raw-cannabinoid-800mg",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-vape-delta-8-blue-moon-hemp",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-vape-delta-8-para-caneta-vaporizadora-divine-hemp-1g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-vape-delta-8-rosca-510-mystic-labs-1-grama-escolha-o-sabor",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-vape-descartavel-thc-o-divine-hemp-1g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cartucho-vazio-wickless-0-5ml-ou-1ml-510-fio-vidro",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cbd_ftp_200mg_ou_400mg_kit_vape_com_bateria_e_carregador",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cbd-a-vapor-sabor-morango-pure-cbd-experience-25-mg-10-ml",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cbd-caneta-vaporizadora-x3-pure-cbd-vapors-405mg",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cbd-kit-vaporizador-sabor-cookies-pure-cbd-vapors-650-mg-1-ml",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cbd-liquido-para-cigarro-eletronico-aztec-10ml",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "cbd-modulo-vaporizador-calmante-pure-cbd-vapors-2-modulos-100mg",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "conjunto-vaporizador-para-iniciantes-cibdol",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "disposable-just-delta-8-1000mg",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "dispositivo-descartavel-thc-o-golden-milk",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "dispositivo-descartavel-vape-blend-delta-8-thc-delta-10-thc-thc-o-thc-v-e-thc-p-urb-infinity--2g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "dispositivo-vape-descartavel-autentico-ald-sunday-scaries-thc-o-mimosa",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "e-liquido-de-cbd-cibdol",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "erig_para_dabs",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "idelta_delta_10_preroll_125g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "kit_vipe_cbd_cartucho_v2",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "kit_viper_cbd",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "kit-de-bateria-eliteheat-ftp-para-vaporizador-pure-cbd-vapors",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "kit-inicial-para-vape-eletronico-4-itens",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "kit-vape-com-espectro-completo-cleen-cbd-275mg-ou-550mg",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "pod-descartavel-de-cbd-iguana-smoke-broad-spectrum-600-mg-2ml-800-baforadas",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "pod-descartavel-hxc-hxc-p-sfv-og-extrax-2-gramas",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "pod-descartavel-indica-hxc-hxc-p-delta-effex-super-glue-2-gramas",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "poderosa-caneta-vape-cbd-de-calor-variavel-compativel-com-rosca-510",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "pod-thc-delta-11--delta-9--thc-p-hidden-hills-fire-blend-blackberry-mamba-2-gramas",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "puff-descartavel-h4cbd-france-800-puffs-3ml",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "pufff-descartavel-50-hhc1000mg-euphoria-700-puffs-1-unidade",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "puff-thc-p-amnesia-800pufs-1-unidade",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "recarga-para-vape-thc-p-e-liquid-canapuff-wolfs-whisper-1500mg-10ml",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "refil-para-recarga-de-cartucho-vape-thc-p-10ml",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "seringa-vape-chill-plus-delta-8-concentrado-com-oleo-destilado-750x-1ml",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "sleep-thc-free-cbd-dose-gota-cbd--cbn-dosist-900mg",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "suco_cbd_vape_framboesa_azul_500mg_30ml",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "suco_cbd_vape_sabor_hortela_fresco_500mg_30ml",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "suco-vape-hempzilla-cbd-30ml",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "vape_espectro_completo_organico_hemplucid_30ml",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "vape-cbd-activo-cannabis-neutractiv-canabinoide-bruto-descartavel-sour-diesel-800mg",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "vape-descartavel-delta-8-blue-moon-hemp-1g",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "vaporizado-cookies-x-g-pen-connect-edicao-limitada",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "vaporizador-de-nevoa-de-cbd-funciona-com-qualquer-oleo-de-vapor-de-cbd",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "vaporizador-descartavel-90-por-cento-de-hhc-space-vape-2ml",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "vaporizador-descartavel-hhc-just-hhc-1800mg-2ml",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "vaporizador-facial-microderm-glo-portatil",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "vaporizador-iguana-power--bateria-510-para-cartuchos",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "vaporizador-wulf-next-azul-wulf-mods",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "xros-da-vaporesso-cinzento-mate-cibdol",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "/image/cache/catalog/products/magnesio/magnesium-inositol-relax-em-po-sabor-limao-now-foods-454g-magnesio-magino-magino-additional-image-42530-800x800.png",
+        "destination": "/p-magnesium-inositol-relax-powder-now-foods",
+        "type": 301
+      },
+      {
+        "source": "/image/cache/catalog/products/melatonina/insonia/melatonina-zinco-selenio-dr-pierpaoli-60-comprimidos-melatonina-insonia-melpie-melpie-additional-image-43470-800x800.png",
+        "destination": "/p-melatonina-zinco-selenio-dr-pierpaoli",
+        "type": 301
+      },
+      {
+        "source": "/Produto-Alimentos-FuncionaisDepressao–Ansiedade-Oxicitocina-Sublingual-Oxytocin-Factor",
+        "destination": "/ocitocina-para-aumentar-a-confianca-liquid-trust",
+        "type": 301
+      },
+      {
+        "source": "/image/cache/catalog/products/gourmet/cha-organico-de-ervas-menta-guayusa-celestial-seasonings-20-saquinhos-de-cha-36-g-gourmet-guayus-guayus-800x800.jpg",
+        "destination": "/cha-organico-de-ervas-menta-guayusa-celestial-seasonings-20-saquinhos-de-cha-36g",
+        "type": 301
+      },
+      {
+        "source": "image/cache/catalog/products/virilidade/resina-pura-e-autentica-de-shilajit-do-himalaia-virilidade-shilhy-shilhy-800x800.png",
+        "destination": "/suplementos-e-vitaminas/defesas-naturais/cogumelos/shilajit/resina-de-shilajit",
+        "type": 301
+      },
+      {
+        "source": "/image/cache/catalog/products/colageno/colageno-com-peptideos-capsulas-tipo-1-2-3-5-x-nature-life-90-capsulas-colageno-clenbl-clenbl-additional-image-43367-800x800.jpg",
+        "destination": "/prevencao-e-tratamentos/corpo/pele-unhas-e-cabelo/colageno",
         "type": 301
       }
     ],
