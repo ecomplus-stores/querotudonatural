@@ -1055,6 +1055,36 @@
         "source": "/image/cache/catalog/products/colageno/colageno-com-peptideos-capsulas-tipo-1-2-3-5-x-nature-life-90-capsulas-colageno-clenbl-clenbl-additional-image-43367-800x800.jpg",
         "destination": "/prevencao-e-tratamentos/corpo/pele-unhas-e-cabelo/colageno",
         "type": 301
+      },
+      {
+        "source": "/oleo-vape-thc-10ml",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "/gomas-de-delta-8-em-tiras-delta-munchies-3000-mg-15mg-por-tira-200-tiras",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "/gomas-de-delta-8-hhc-thc-p-tre-house-manga-tropical-700mg-20-unidades",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "/delta-8-thc-comprar",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
+      },
+      {
+        "source": "/caneta-thc-descartavel",
+        "destination": "/pages/guia-completo-para-escolher-e-usar-sua-caneta-vaporizadora-de-thc",
+        "type": 301
       }
     ],
     "public": "dist",
