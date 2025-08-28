@@ -39,3 +39,6 @@
 #instant-search .backdrop + .search__box .product-card--small .product-card__buy {
       margin: 0 auto;
     }
+.card-footer .minicart__btn-checkout.btn.btn-block.btn-primary {
+    display: none !important;
+}
