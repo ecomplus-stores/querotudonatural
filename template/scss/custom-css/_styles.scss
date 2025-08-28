@@ -44,9 +44,9 @@
 }
 .shipping-calculator__option small {
   display: block;
-  margin-top: 4px;
-  width: 100%;         /* Ocupa toda a largura do container */
-  white-space: normal; /* Permite múltiplas linhas */
-  word-break: break-word;
+  max-width: 140px;        /* ajuste o valor até dividir em duas linhas */
+  white-space: normal;     /* permite quebra automática */
+  word-break: break-word;  /* quebra palavras grandes */
+  overflow-wrap: break-word; /* reforça quebra se necessário */
   line-height: 1.3;
 }
