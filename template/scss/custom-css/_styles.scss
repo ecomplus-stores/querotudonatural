@@ -42,3 +42,11 @@
 .card-footer .minicart__btn-checkout.btn.btn-block.btn-primary {
     display: none !important;
 }
+.shipping-calculator__option small {
+  display: block;
+  margin-top: 4px;
+  width: 100%;         /* Ocupa toda a largura do container */
+  white-space: normal; /* Permite múltiplas linhas */
+  word-break: break-word;
+  line-height: 1.3;
+}
