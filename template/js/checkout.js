@@ -41,7 +41,6 @@ setInterval(function () {
       var countQuantity = ecomCart.data.subtotal
       if (countQuantity < lessQuantity) {
         window.location.href = '/app/#/cart'
-        window.alert('Um dos produtos o estoque acabou! Você estará sendo direcionado para o carrinho para inserir mais itens para pedido mínimo')
       }
     }
 
