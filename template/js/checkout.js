@@ -40,26 +40,28 @@ ecomCart.on('change', ({ data }) => {
 
 const router1 = window.storefrontApp && window.storefrontApp.router
 
-setInterval(function () {
-  if (router1) {
-    const emitCheckout1 = (name) => {
-      var countQuantity = ecomCart.data.subtotal
-      if (countQuantity < lessQuantity) {
-        if (window.confirm('O pedido mínimo para todo o site é de R$ 529,00. Deseja voltar ao carrinho para completar o valor?')) {
-          window.location.href = '/app/#/cart'
-        }
+if (router1) {
+  const emitCheckout1 = (name) => {
+    var countQuantity = ecomCart.data.subtotal
+    if (countQuantity < lessQuantity) {
+      if (window.confirm('O pedido mínimo para todo o site é de R$ 529,00. Deseja voltar ao carrinho para completar o valor?')) {
+        window.location.href = '/app/#/cart'
+      } else {
+        // se clicar em "Cancelar", volta automaticamente para o carrinho também
+        window.location.href = '/app/#/cart'
       }
     }
-
-    const addRoute1ToData = ({ name }) => {
-      if (name === 'checkout') {
-        emitCheckout1(name)
-      }
-    }
-
-    if (router1.currentRoute) {
-      addRoute1ToData(router1.currentRoute)
-    }
-    router1.afterEach(addRoute1ToData)
   }
-}, 599)
+
+  const addRoute1ToData = ({ name }) => {
+    if (name === 'checkout') {
+      emitCheckout1(name)
+    }
+  }
+
+  if (router1.currentRoute) {
+    addRoute1ToData(router1.currentRoute)
+  }
+
+  router1.afterEach(addRoute1ToData)
+}
