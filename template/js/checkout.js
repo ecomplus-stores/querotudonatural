@@ -44,12 +44,8 @@ if (router1) {
   const emitCheckout1 = (name) => {
     var countQuantity = ecomCart.data.subtotal
     if (countQuantity < lessQuantity) {
-      if (window.confirm('O pedido mínimo para todo o site é de R$ 529,00. Deseja voltar ao carrinho para completar o valor?')) {
-        window.location.href = '/app/#/cart'
-      } else {
-        // se clicar em "Cancelar", volta automaticamente para o carrinho também
-        window.location.href = '/app/#/cart'
-      }
+      window.alert('O pedido mínimo para todo o site é de R$ 529,00. Complete o valor mínimo para concluir sua compra.')
+      window.location.href = '/app/#/cart'
     }
   }
 
