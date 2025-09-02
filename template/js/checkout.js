@@ -1,11 +1,14 @@
 import '#template/js/checkout'
 import './custom-js/checkout'
 import ecomCart from '@ecomplus/shopping-cart'
+
 var lessUnit = document.getElementById('lessUnit')
 var firstphrase = document.getElementById('lessSome')
 var lastphrase = document.getElementById('noMore')
 var lessQuantity = 529
+
 lessUnit.innerHTML = window.ecomUtils.formatMoney(lessQuantity, 'BRL', 'pt_br')
+
 ecomCart.on('change', ({ data }) => {
   var cartCalc = document.querySelectorAll('#cart')
   if (cartCalc.length) {
@@ -34,14 +37,17 @@ ecomCart.on('change', ({ data }) => {
     document.getElementById('containerCalc').style.display = 'none'
   }
 })
+
 const router1 = window.storefrontApp && window.storefrontApp.router
+
 setInterval(function () {
   if (router1) {
     const emitCheckout1 = (name) => {
       var countQuantity = ecomCart.data.subtotal
       if (countQuantity < lessQuantity) {
-        window.location.href = '/app/#/cart'
-         window.alert('O pedido mínimo para todo o site é de R$ 529,00. Complete o valor mínimo para que sua compra seja concluída.')
+        if (window.confirm('O pedido mínimo para todo o site é de R$ 529,00. Deseja voltar ao carrinho para completar o valor?')) {
+          window.location.href = '/app/#/cart'
+        }
       }
     }
 
@@ -56,4 +62,4 @@ setInterval(function () {
     }
     router1.afterEach(addRoute1ToData)
   }
-}, 529)
+}, 599)
