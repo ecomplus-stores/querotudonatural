@@ -41,6 +41,7 @@ setInterval(function () {
       var countQuantity = ecomCart.data.subtotal
       if (countQuantity < lessQuantity) {
         window.location.href = '/app/#/cart'
+         window.alert('O pedido mínimo para todo o site é de R$ 529,00. Complete o valor mínimo para que sua compra seja concluída.')
       }
     }
 
