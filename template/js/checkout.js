@@ -1,63 +1,59 @@
 import '#template/js/checkout'
 import './custom-js/checkout'
 import ecomCart from '@ecomplus/shopping-cart'
-
-const lessQuantity = 529
-
-// Elementos
-const lessUnit = document.getElementById('lessUnit')
-const firstphrase = document.getElementById('lessSome')
-const lastphrase = document.getElementById('noMore')
-const containerCalc = document.getElementById('containerCalc')
-const checkoutButton = document.querySelector('.cart__btn-checkout')
-const lastUnitsBar = document.getElementById('lastUnitsBar')
-const percentBar = document.getElementById('percentBar')
-
-// Mostra valor inicial
+var lessUnit = document.getElementById('lessUnit')
+var firstphrase = document.getElementById('lessSome')
+var lastphrase = document.getElementById('noMore')
+var lessQuantity = 529
 lessUnit.innerHTML = window.ecomUtils.formatMoney(lessQuantity, 'BRL', 'pt_br')
-
-// Atualiza barra e mensagens quando o carrinho muda
 ecomCart.on('change', ({ data }) => {
-  if (containerCalc) {
-    containerCalc.style.display = 'block'
-
-    const countQuantity = data.subtotal
-    const evalQuantity = lessQuantity - countQuantity
-
+  var cartCalc = document.querySelectorAll('#cart')
+  if (cartCalc.length) {
+    document.getElementById('containerCalc').style.display = 'block'
+    var checkoutButton = document.querySelector('.cart__btn-checkout')
+    var percentBar
+    var countQuantity = data.subtotal
+    var evalQuantity = lessQuantity - countQuantity
     if (evalQuantity > 0) {
-      // Ainda não atingiu o mínimo
       lessUnit.innerHTML = window.ecomUtils.formatMoney(evalQuantity, 'BRL', 'pt_br')
-      const percent = Math.min(Math.round((countQuantity / lessQuantity) * 100), 100) + '%'
-
-      lastUnitsBar.style.width = percent
-      percentBar.innerHTML = percent
-
+      percentBar = Math.round(countQuantity / lessQuantity * 100) + '%'
+      document.getElementById('lastUnitsBar').style.width = percentBar
+      document.getElementById('percentBar').innerHTML = percentBar
       firstphrase.style.display = 'block'
       lastphrase.style.display = 'none'
       checkoutButton.style.display = 'none'
     } else {
-      // Já atingiu o mínimo
-      lastUnitsBar.style.width = '100%'
-      percentBar.innerHTML = '100%'
-
+      percentBar = '100%'
+      checkoutButton.style.display = 'block'
       firstphrase.style.display = 'none'
       lastphrase.style.display = 'block'
-      checkoutButton.style.display = 'block'
+      document.getElementById('lastUnitsBar').style.width = percentBar
+      document.getElementById('percentBar').innerHTML = percentBar
     }
+  } else {
+    document.getElementById('containerCalc').style.display = 'none'
   }
 })
-
-// Bloqueia checkout se não tiver valor mínimo
-const router = window.storefrontApp && window.storefrontApp.router
-
-if (router) {
-  router.afterEach(({ name }) => {
-    if (name === 'checkout') {
-      const countQuantity = ecomCart.data.subtotal
+const router1 = window.storefrontApp && window.storefrontApp.router
+setInterval(function () {
+  if (router1) {
+    const emitCheckout1 = (name) => {
+      var countQuantity = ecomCart.data.subtotal
       if (countQuantity < lessQuantity) {
-        window.alert('O pedido mínimo para todo o site é de R$ 529,00. Complete o valor mínimo para que sua compra seja concluída.')
         window.location.href = '/app/#/cart'
+         window.alert('O pedido mínimo para todo o site é de R$ 529,00. Complete o valor mínimo para que sua compra seja concluída.')
       }
     }
-  })
-}
+
+    const addRoute1ToData = ({ name }) => {
+      if (name === 'checkout') {
+        emitCheckout1(name)
+      }
+    }
+
+    if (router1.currentRoute) {
+      addRoute1ToData(router1.currentRoute)
+    }
+    router1.afterEach(addRoute1ToData)
+  }
+}, 529)
