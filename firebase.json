@@ -357,7 +357,7 @@
   "type": 301
   },
   {
-  source": "/graviola-rain-tree?tag=graviola&sort=pd.name&order=DESC",
+  "source": "/graviola-rain-tree?tag=graviola&sort=pd.name&order=DESC",
   "destination": "/graviola-rain-tree",
   "type": 301
   },
