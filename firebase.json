@@ -1,6 +1,756 @@
 {
   "hosting": {
     "redirects": [
+  {
+  "source": "/p-aldosterona-spray?tag=aldosterona",
+  "destination": "/p-spray-de-aldosterona-aldomax-naturalspro-600ui-por-dose-8ml",
+  "type": 301
+  },
+  {
+  "source": "/p-vitamina-d3-10-000-ui-da-body-first-240-caps?_=feed",
+  "destination": "/p-vitamina-d3-10-000-ui-da-body-first-240-caps",
+  "type": 301
+  },
+  {
+  "source": "/p-vitamina-d3-10-000-ui-da-body-first-240-caps",
+  "destination": "/p-vitamina-d3-10-000-ui-da-body-first-240-caps",
+  "type": 301
+  },
+  {
+  "source": "/acido-hialuronico-toner-hidratante-de-nuvem-com-hamamelis-ate-72-horas-de-hidratacao-ajuda-a-reduzir-o-aspecto-de-linhas-finas-rugas-e-poros-peter-thomas-roth-150ml",
+  "destination": "/acido-hialuronico-toner-hidratante-de-nuvem-com-hamamelis-ate-72-horas-de-hidratacao-ajuda-a-reduzir-o-aspecto-de-linhas-finas-rugas-e-poros-peter-thomas-roth-150ml",
+  "type": 301
+  },
+  {
+  "source": "/cuidados-pessoais?product_id=1956&limit=75",
+  "destination": "/cuidados-pessoais",
+  "type": 301
+  },
+  {
+  "source": "/x-fungal-life-time-90-capsulas?tag=desintoxicação&sort=pd.name&order=ASC&page=3",
+  "destination": "/",
+  "type": 301
+  },
+  {
+  "source": "/p-mel-australiano-de-manuka-biosota?tag=Mel Manuka&sort=pd.name&order=DESC",
+  "destination": "/p-mel-de-manuka-manuka-health-metilglioxal",
+  "type": 301
+  },
+  {
+  "source": "/p-comprar-melatonina-natrol-comprimidos-criancas?_=feed&variation_id=663910165271916049500003",
+  "destination": "/p-comprar-melatonina-natrol-comprimidos-criancas",
+  "type": 301
+  },
+  {
+  "source": "/wobenzym?sort=rating&order=ASC&limit=75",
+  "destination": "/p-wobenzym-ps-purerxo-100-comprimidos",
+  "type": 301
+  },  
+  {
+  "source": "/saccharomyces-boulardii?tag=probiotico&sort=rating&order=DESC",
+  "destination": "/saccharomyces-boulardii",
+  "type": 301
+  },
+  {
+  "source": "/extrato-de-formiga-da-montanha-500mg-barlowe-s-herbal-elixirs-60-capsulas",
+  "destination": "/extrato-de-formiga-da-montanha-500mg-barlowe-s-herbal-elixirs-60-capsulas",
+  "type": 301
+  },
+  {
+  "source": "/oleo-cbd-hidrogenado-h4cbd-drops-30ml",
+  "destination": "/",
+  "type": 301
+  },
+  {
+  "source": "/especiais/wobenzym?limit=50",
+  "destination": "/p-wobenzym-ps-purerxo-100-comprimidos",
+  "type": 301
+  },
+  {
+  "source": "/extrato-de-alho-envelhecido-pressao-arterial-saudavel-formula-109-kyolic-160-capsulas?tag=60 caps&page=17",
+  "destination": "/extrato-de-alho-envelhecido-pressao-arterial-saudavel-formula-109-kyolic-160-capsulas",
+  "type": 301
+  },
+  {
+  "source": "/especiais/wobenzym?sort=p.price&order=ASC",
+  "destination": "/p-wobenzym-ps-purerxo-100-comprimidos",
+  "type": 301
+  },
+  {
+  "source": "/dca-sodium-dichloroacetate-puro",
+  "destination": "/dca-tratamento-cancer-dca-lab-capsulas",
+  "type": 301
+  },
+  {
+  "source": "/arroz-vermelho-organico-fermentado-em-po-nao-ogm-e-vegano-micro-ingredientes-227g?tag=menta",
+  "destination": "/arroz-vermelho-organico-fermentado-em-po-nao-ogm-e-vegano-micro-ingredientes-227g",
+  "type": 301
+  },
+  {
+  "source": "/manga-tintura-1-4-tropilab-60ml?tag=60ml",
+  "destination": "/manga-tintura-1-4-tropilab-60ml",
+  "type": 301
+  },
+  {
+  "source": "/especiais/cbd-medicinal/capsulas-de-cbd/capsulas-matinais-cbd-cbg-para-energia-e-foco-900mg-30cp?sort=pd.name&order=DESC&limit=75",
+  "destination": "/especiais",
+  "type": 301
+  },
+  {
+  "source": "/especiais/cbd-medicinal/capsulas-de-cbd/capsula-de-cbd-lipossomal-neo-cure?sort=pd.name&order=DESC&limit=75",
+  "destination": "/especiais",
+  "type": 301
+  },
+  {
+  "source": "/especiais/cbd-medicinal/capsulas-de-cbd/capsulas-de-gel-cbd-750-1500mg-30cp?sort=pd.name&order=DESC&limit=75",
+  "destination": "/especiais",
+  "type": 301
+  },
+  {
+  "source": "/c-nutraceuticos/imunidade/aloe-vera",
+  "destination": "/p-aloe-fuzion",
+  "type": 301
+  },
+  {
+  "source": "/especiais/cbd-medicinal/capsulas-de-cbd/cbd-cbn-night-capsulas-para-dormir-900mg-30cp?sort=pd.name&order=DESC&limit=75",
+  "destination": "/especiais",
+  "type": 301
+  },
+  {
+  "source": "/c-vitaminas/acido-folico-5-mthf",
+  "destination": "/5-metil-tetra-hidrofolato-1mg",
+  "type": 301
+  },
+  {
+  "source": "/especiais/cbd-medicinal/capsulas-de-cbd/capsulas-de-forca-extra-de-equilibrio-diario-elixinol-60-capsulas?sort=pd.name&order=DESC&limit=75",
+  "destination": "/especiais",
+  "type": 301
+  },
+  {
+  "source": "/especiais/cbd-medicinal/capsulas-de-cbd/p-cbd-puro-oleo-capsulas-canabidiol-para-ansiedade?sort=pd.name&order=DESC&limit=75",
+  "destination": "/especiais",
+  "type": 301
+  },
+  {
+  "source": "/c-nutraceuticos/saude-do-cerebro/melatonina/melatonina-2-5mg",
+  "destination": "/p-comprar-melatonina-natrol-comprimidos-criancas",
+  "type": 301
+  },
+  {
+  "source": "/especiais/cbd-medicinal/capsulas-de-cbd/capsulas-de-boa-noite-para-dormir-elixinol-60-capsulas?sort=pd.name&order=DESC&limit=75",
+  "destination": "/especiais",
+  "type": 301
+  },
+  {
+  "source": "/c-vitaminas/vitamina-b/biotin",
+  "destination": "/biotina-queda-cabelos-alta-dose",
+  "type": 301
+  },
+  {
+  "source": "/especiais/cbd-medicinal/capsulas-de-cbd/capsulas-de-equilibrio-diario-elixinol-60-capsulas?sort=pd.name&order=DESC&limit=75",
+  "destination": "/especiais",
+  "type": 301
+  },
+  {
+  "source": "/especiais/cbd-medicinal/capsulas-de-cbd/capsulas-de-apoio-ao-estresse-calmante-elixinol-60-capsulas?sort=pd.name&order=DESC&limit=75",
+  "destination": "/especiais",
+  "type": 301
+  },
+  {
+  "source": "/especiais/cbd-medicinal/capsulas-de-cbd/capsula-de-cbd-10-enecta?sort=pd.name&order=DESC&limit=75",
+  "destination": "/especiais",
+  "type": 301
+  },
+  {
+  "source": "/c-nutraceuticos/dhea/7-keto-100-mg",
+  "destination": "/p-7keto-dhea-50mg",
+  "type": 301
+  },
+  {
+  "source": "/index.php?route=account/account",
+  "destination": "/",
+  "type": 301
+  },
+  {
+  "source": "/c-nutraceuticos/aminoacidos/l-lysine",
+  "destination": "/lysine-pure-encapsulations",
+  "type": 301
+  },
+  {
+  "source": "/raw-forest-foods/elixir-afrodisiaco-polen-pinho",
+  "destination": "/elixir-afrodisiaco-polen-pinho",
+  "type": 301
+  },
+  {
+  "source": "/afrodisiaco/elixir-afrodisiaco-polen-pinho",
+  "destination": "/elixir-afrodisiaco-polen-pinho",
+  "type": 301
+  },
+  {
+  "source": "/defesas-naturais/cogumelos/extrato-de-cistanche-tubulosa-100-gramas?sort=p.sort_order&order=ASC&limit=25",
+  "destination": "/extrato-de-cistanche-tubulosa-100-gramas",
+  "type": 301
+  },
+  {
+  "source": "/multivitaminico-multimineral-senior-abc-plus-puritan-s-pride-240-capsulas?tag=240 cápsulas&sort=rating&order=DESC",
+   "destination": "/multivitaminico-multimineral-senior-abc-plus-puritan-s-pride-240-capsulas",
+  "type": 301
+  },
+  {
+  "source": "/capsulas-monotomicas-douradas-atomic-ormus-30-capsulas?tag=susp",
+  "destination": "/ormus-gold-ouro-prata-iridio-platina-rodio-cromo-natural-sem-conservantes-e-enchimentos-100-ml",
+  "type": 301
+  },
+  {
+  "source": "/capsulas-monotomicas-douradas-atomic-ormus-30-capsulas?tag=Solutions&sort=pd.name&order=DESC",
+  "destination": "/ormus-gold-ouro-prata-iridio-platina-rodio-cromo-natural-sem-conservantes-e-enchimentos-100-ml",
+  "type": 301
+  },
+  {
+  "source": "/polivitaminico/mente/melatonina/melatonina-grau-farmaceutico-dormir-melhor",
+  "destination": "/melatonina-grau-farmaceutico-dormir-melhor",
+  "type": 301
+  },
+  {
+  "source": "/desempenho-sexual/feromonios/pherazone-36mg-colonia-masculina-hidratante-com-18-mg-de-feromonio-para-atrair-mulheres?limit=100",
+  "destination": "/pherazone-36mg-colonia-masculina-hidratante-com-18-mg-de-feromonio-para-atrair-mulheres",
+  "type": 301
+  },  
+  {
+  "source": "/suplementos-e-vitaminas/defesas-naturais/cogumelos/extrato-de-cistanche-tubulosa-100-gramas",
+  "destination": "/extrato-de-cistanche-tubulosa-100-gramas",
+  "type": 301
+  },
+  {
+  "source": "/tudca-acido-tauroursodeoxicolico-suplemento-de-sal-biliar-para-suporte-ao-figado-por-flowzuk-250mg-60-capsulas?_=feed",
+  "destination": "/p-tudca-acido-tauroursodeoxycholic-terraform-pure-500mg-60capsulas",
+  "type": 301
+  },
+  {
+  "source": "/capsulas-de-telomero-antienvelhecimento-de-mononucleotideo-de-nicotinamida-60-comprimidos?_=feed",
+  "destination": "/nmn-puro-em-po-mononucleotideo-de-nicotinamida-donotage",
+  "type": 301
+  },
+  {
+  "source": "/p-sea-moss-complex-1600mg-plus-bladderwrack-adora-organics?_=feed",
+  "destination": "/p-sea-moss-complex-1600mg-plus-bladderwrack-adora-organics",
+  "type": 301
+  },
+  {  
+  "source": "/pioneer-celiac-support-comprehensive-gut-health-pioneiro-10mg-120-capsulas-vegetarianas",
+  "destination": "/",
+  "type": 301
+  },
+  {
+  "source": "/oleo-tamanu-puro?tag=oleos",
+  "destination": "/vanuatu-tamanu-oleo-vita-stream-60-ml",
+  "type": 301
+  },
+  {
+  "source": "/alaway-colirio-anti-histaminico-bausch-lomb-10ml?_=feed",
+  "destination": "/alaway-colirio-anti-histaminico-bausch-lomb-10ml",
+  "type": 301
+  },
+  {
+  "source": "/ferro-furamato-ferroso-sublingual-de-dissolucao-rapida-superior-source-25-mg-90-comprimidos-sublinguais?tag=Sublingual&sort=p.price&order=ASC",
+  "destination": "/ferro-furamato-ferroso-sublingual-de-dissolucao-rapida-superior-source-25-mg-90-comprimidos-sublinguais",
+  "type": 301
+  },
+  {
+  "source": "/boluoke-lumbroquinase?tag=Lumbrokinase",
+  "destination": "/boluoke-lumbroquinase",
+  "type": 301
+  },
+  {
+  "source": "/ferro-furamato-ferroso-sublingual-de-dissolucao-rapida-superior-source-25-mg-90-comprimidos-sublinguais?tag=source&page=3",
+  "destination": "/ferro-furamato-ferroso-sublingual-de-dissolucao-rapida-superior-source-25-mg-90-comprimidos-sublinguais",
+  "type": 301
+  },
+  {
+  "source": "/oleo-de-semente-preto-nao-refinado-avancado-1000mg-por-porcao-250-softgels?_=feed",
+  "destination": "/oleo-de-semente-de-abobora-carlyle-473-ml",
+  "type": 301
+  },
+  {
+  "source": "/blooming-blends-be-sexy?_=feed",
+  "destination": "/blooming-blends-be-sexy",
+  "type": 301
+  },
+  {
+  "source": "/glossy-diamantes-reais",
+  "destination": "/glossy-diamantes-reais",
+  "type": 301
+  },
+  {
+  "source": "/progesterona-usp-em-um-creme-totalmente-natural-200-pumps-por-frasco-50g?tag=totalmente",
+  "destination": "/progesterona-creme-corporal-emerita",
+  "type": 301
+  },
+  {
+  "source": "/progesterona-usp-em-um-creme-totalmente-natural-200-pumps-por-frasco-50g?tag=progesterona",
+  "destination": "/progesterona-creme-corporal-emerita",
+  "type": 301
+  },
+  {
+  "source": "/emulsao-oftalmica-protege-os-olhos-secos-moderados-a-graves?_=feed",
+  "destination": "/emulsao-oftalmica-protege-os-olhos-secos-moderados-a-graves",
+  "type": 301
+  },
+  {
+  "source": "/oxytocina-homens-mulheres?_=feed",
+  "destination": "/oxitocina-nasal-spray-40ui-por-dose-5ml",
+  "type": 301
+  },
+  {
+  "source": "/graviola-rain-tree?_=feed",
+  "destination": "/graviola-rain-tree",
+  "type": 301
+  },
+  {
+  "source": "/oxytocina-homens-mulheres?tag=Mulher",
+  "destination": "/oxitocina-nasal-spray-40ui-por-dose-5ml",
+  "type": 301
+  },
+  {
+  "source": "/p-beet-root-6000-mg-com-pimenta-preta-200-capsulas-vegetais-nusa-pure?tag=caps&sort=rating&order=ASC&page=7",
+  "destination": "/p-beet-root-6000-mg-com-pimenta-preta-200-capsulas-vegetais-nusa-pure",
+  "type": 301
+  },
+  {
+  "source": "/oxyluv/oxytocina-homens-mulheres?sort=pd.name&order=DESC&limit=100",
+  "destination": "/oxitocina-nasal-spray-40ui-por-dose-5ml",
+  "type": 301
+  },
+  {
+  "source": "/oxytocina-homens-mulheres?tag=spray&sort=p.model&order=DESC",
+  "destination": "/oxitocina-nasal-spray-40ui-por-dose-5ml",
+  "type": 301
+  },
+  {
+  "source": "/cravo-branco-da-india-tintura-1-4-tropilab-60ml",
+  "destination": "/cravo-branco-da-india-tintura-1-4-tropilab-60ml",
+  "type": 301
+  },
+  {
+  "source": "/p-enzima-pura-catalase-antioxidante-15000ui-60-capsulas?tag=Pele",
+  "destination": "/p-enzima-pura-catalase-antioxidante-15000ui-60-capsulas",
+  "type": 301
+  },
+  {
+  "source": "/p-beet-root-6000-mg-com-pimenta-preta-200-capsulas-vegetais-nusa-pure?tag=Antioxidantes&page=2",
+  "destination": "/p-beet-root-6000-mg-com-pimenta-preta-200-capsulas-vegetais-nusa-pure",
+  "type": 301
+  },
+  {
+  "source": "/extrato-de-cistanche-tubulosa-100-gramas",
+  "destination": "/extrato-de-cistanche-tubulosa-100-gramas",
+  "type": 301
+  },
+  {
+  "source": "/graviola-rain-tree?tag=graviola",
+  "destination": "/graviola-rain-tree",
+  "type": 301
+  },
+  {
+  "source": "/graviola-rain-tree?tag=formulas",
+  "destination": "/graviola-rain-tree",
+  "type": 301
+  },
+  {
+  source": "/graviola-rain-tree?tag=graviola&sort=pd.name&order=DESC",
+  "destination": "/graviola-rain-tree",
+  "type": 301
+  },
+  {
+  "source": "/graviola-rain-tree?tag=formula&sort=p.model&order=ASC",
+  "destination": "/graviola-rain-tree",
+  "type": 301
+  },
+  {
+  "source": "/extrato-de-mucuna-pruriens-20-de-l-dopa-suplemento-de-reforco-de-dopamina-1-000mg-por-porcao-210-capsulas?tag=mucuna",
+  "destination": "/extrato-de-mucuna-pruriens-20-de-l-dopa-suplemento-de-reforco-de-dopamina-1-000mg-por-porcao-210-capsulas",
+  "type": 301
+  },
+  {
+  "source": "/nmn-sublingual-500mg-60-comprimidos-rejuvenate?_=feed",
+  "destination": "/nmn-sublingual-500mg-60-comprimidos-rejuvenate",
+  "type": 301
+  },
+  {
+  "source": "/leucina-em-po-fermentada-biosteel-stackables-225g?tag=sports",
+  "destination": "/leucina-em-po-fermentada-biosteel-stackables-225g",
+  "type": 301
+  },
+  {
+  "source": "/vitamina-b-12-puritan-s-pride-1000-mcg-250-capsulas",
+  "destination": "/vitamina-b-12-puritan-s-pride-1000-mcg-250-capsulas",
+  "type": 301
+  },
+  {
+  "source": "/desempenho-sexual/feromonios/pherazone-36mg-colonia-masculina-hidratante-com-18-mg-de-feromonio-para-atrair-mulheres?limit=75",
+  "destination": "/pherazone-36mg-colonia-masculina-hidratante-com-18-mg-de-feromonio-para-atrair-mulheres",
+  "type": 301
+  },
+  {
+  "source": "/especiais/nootropicos/fisetin-max-100-mg-30-capsulas-vitality-now?sort=pd.name&order=DESC&limit=100",
+  "destination": "/fisetin-max-100-mg-30-capsulas-vitality-now",
+  "type": 301
+  },
+  {
+  "source": "/natur-s-answer",
+  "destination": "/",
+  "type": 301
+  },
+  {
+  "source": "/index.php?route=account/newsletter",
+  "destination": "/",
+  "type": 301
+  },
+  {
+  "source": "/desintoxicacao",
+  "destination": "/",
+  "type": 301
+  },
+  {
+  "source": "/garmonia/testoluten-a-13-peptideo-regulador-para-testiculos-vita-stream-20-capsulas?page=2",
+  "destination": "/testoluten-a-13-peptideo-regulador-para-testiculos-vita-stream-20-capsulas",
+  "type": 301
+  },
+  {
+  "source": "/antioxidantes/kaempferia-parviflora-kra-chai-dum-500mg-barlowe-s-herbal-elixirs-60-capsulas?sort=pd.name&order=DESC&limit=48",
+  "destination": "/kaempferia-parviflora-kra-chai-dum-500mg-barlowe-s-herbal-elixirs-60-capsulas",
+  "type": 301
+  },
+  {
+  "source": "/especiais/nootropicos/nootropicos-naturais/ashwagandha/ashwagandha-em-po-e-organica-nao-ogm-e-amiga-vegana-micro-ingredientes-680g?sort=p.sort_order&order=ASC&limit=1",
+  "destination": "/ashwagandha-em-po-e-organica-nao-ogm-e-amiga-vegana-micro-ingredientes-680g",
+  "type": 301
+  },
+  {
+  "source": "/especiais/nootropicos/nootropicos-naturais/ashwagandha/ashwagandha-em-po-e-organica-nao-ogm-e-amiga-vegana-micro-ingredientes-680g?sort=pd.name&order=DESC&limit=100",
+  "destination": "/ashwagandha-em-po-e-organica-nao-ogm-e-amiga-vegana-micro-ingredientes-680g",
+  "type": 301
+  },
+  {
+  "source": "/polivitaminico/mente/melatonina/p-shut-eye-suplemento-natural-ao-sono-a-base-de-plantas-feito-com-raiz-de-valeriana-melatonina-camomila-e-magnesio-insonia-e-alivio-da-ansiedade-60-capsulas-shueye?sort=pd.name&order=ASC&limit=50",
+  "destination": "/p-shut-eye-suplemento-natural-ao-sono-a-base-de-plantas-feito-com-raiz-de-valeriana-melatonina-camomila-e-magnesio-insonia-e-alivio-da-ansiedade-60-capsulas-shueye",
+  "type": 301
+  },
+  {
+  "source": "/especiais/nootropicos/nootropicos-naturais/ashwagandha/ashwagandha-em-po-e-organica-nao-ogm-e-amiga-vegana-micro-ingredientes-680g?sort=p.model&order=ASC&limit=100",
+  "destination": "/ashwagandha-em-po-e-organica-nao-ogm-e-amiga-vegana-micro-ingredientes-680g",
+  "type": 301
+  },
+  {
+  "source": "/prevencao-e-tratamentos/corpo/coracao/plasmaflo-suplemento-para-saude-circulatoria-cerule-60-capsulas-plasmaflo60caps?sort=p.model&order=DESC",
+  "destination": "/plasmaflo-suplemento-para-saude-circulatoria-cerule-60-capsulas-plasmaflo60caps",
+  "type": 301
+  },
+  {
+  "source": "/polivitaminico/mente/melatonina/p-shut-eye-suplemento-natural-ao-sono-a-base-de-plantas-feito-com-raiz-de-valeriana-melatonina-camomila-e-magnesio-insonia-e-alivio-da-ansiedade-60-capsulas-shueye?sort=p.sort_order&order=ASC",
+  "destination": "/p-shut-eye-suplemento-natural-ao-sono-a-base-de-plantas-feito-com-raiz-de-valeriana-melatonina-camomila-e-magnesio-insonia-e-alivio-da-ansiedade-60-capsulas-shueye",
+  "type": 301
+  },
+  {
+  "source": "/forca-muscular/aminoacidos/l-serina/l-serine-em-po-suporte-cerebral-po-para-sono-foco-mental-bulk-supplements",
+  "destination": "/fosfatidil-serine",
+  "type": 301
+  },
+  {
+  "source": "/especiais/cbd-medicinal/gomas-de-cbd/cogumelos-cbd-com-curcuma-e-espirulina-1500mg-60cp?sort=pd.name&order=DESC&limit=25",
+  "destination": "/especiais",
+  "type": 301
+  },
+  {
+  "source": "/especiais/nootropicos/p-tonico-cerebral-nutropico-nectar-neural-superfeast-50g-5ml?sort=p.price&order=DESC&limit=50",
+  "destination": "/p-tonico-cerebral-nutropico-nectar-neural-superfeast-50g-5ml",
+  "type": 301
+  },
+  {
+  "source": "/especiais/nootropicos/nootropicos-naturais/ashwagandha/ashwagandha-em-po-e-organica-nao-ogm-e-amiga-vegana-micro-ingredientes-680g?sort=p.price&order=ASC&limit=100",
+  "destination": "/p-ashwagandha-organica-5200mg-agobi-90-capsulas",
+  "type": 301
+  },
+  {
+  "source": "/especiais/nootropicos/nootropicos-naturais/ashwagandha/ashwagandha-em-po-e-organica-nao-ogm-e-amiga-vegana-micro-ingredientes-680g?sort=p.model&order=ASC&limit=50",
+  "destination": "/p-ashwagandha-organica-5200mg-agobi-90-capsulas",
+  "type": 301
+  },
+  {
+  "source": "/especiais/nootropicos/nootropicos-naturais/ashwagandha/ashwagandha-em-po-e-organica-nao-ogm-e-amiga-vegana-micro-ingredientes-680g?sort=p.price&order=ASC&limit=50",
+  "destination": "/p-ashwagandha-organica-5200mg-agobi-90-capsulas",
+  "type": 301
+  },
+  {
+  "source": "/especiais/cbd-medicinal/vapor-de-cbd/cartucho-de-cbd/cartucho-de-vape-delta-8-thc-hibrido-indica-sativa-950mg",
+  "destination": "/especiais",
+  "type": 301
+  },
+  {
+  "source": "/especiais/cbd-medicinal/oleo-de-cbd/delta-thc/cartucho-de-vape-delta-8-thc-hibrido-indica-sativa-950mg",
+  "destination": "/especiais",
+  "type": 301
+  },
+  {
+  "source": "/especiais/nootropicos/nootropicos-naturais/ashwagandha/ashwagandha-em-po-e-organica-nao-ogm-e-amiga-vegana-micro-ingredientes-680g?sort=p.price&order=ASC&limit=15",
+  "destination": "/p-ashwagandha-organica-5200mg-agobi-90-capsulas",
+  "type": 301
+  },
+  {
+  "source": "/especiais/nootropicos/nootropicos-naturais/ashwagandha/ashwagandha-em-po-e-organica-nao-ogm-e-amiga-vegana-micro-ingredientes-680g?sort=rating&order=DESC&limit=50",
+  "destination": "/p-ashwagandha-organica-5200mg-agobi-90-capsulas",
+  "type": 301
+  },
+  {
+  "source": "/index.php?route=product/search&tag=(Fosfatidilserina)",
+  "destination": "/",
+  "type": 301
+  },
+  {
+  "source": "/cbd-medicinal/cbd-para-a-beleza/pack-beleza-antienvelhecimento-cbd-cibdol?sort=p.sort_order&order=ASC",
+  "destination": "/",
+  "type": 301
+  },
+  {
+  "source": "/focinho-cinzento-articulacoes-para-caes-seniores-ark-naturals-old-dogs-happy-joints-90-mordidas-macias-90g",
+  "destination": "/focinho-cinzento-articulacoes-caes-velhos",
+  "type": 301
+  },
+  {
+  "source": "/prevencao-e-tratamentos/doencas/cancer/dca-dicloroacetato-de-sodio/dca-tratamento-cancer?sort=p.model&order=DESC",
+  "destination": "/dca-tratamento-do-cancer",
+  "type": 301
+  },
+  {
+  "source": "/especiais/nootropicos/nootropicos-naturais/ashwagandha/ashwagandha-em-po-e-organica-nao-ogm-e-amiga-vegana-micro-ingredientes-680g?sort=p.model&order=ASC&limit=25",
+  "destination": "/p-ashwagandha-organica-5200mg-agobi-90-capsulas",
+  "type": 301
+  },
+  {
+  "source": "/focinho-cinzento-articulacoes-para-caes-seniores-ark-naturals-old-dogs-happy-joints-90-mordidas-macias-90g",
+  "destination": "/focinho-cinzento-articulacoes-caes-velhos",
+  "type": 301
+  },
+  {
+  "source": "/index.php?route=account/forgotten",
+  "destination": "/",
+  "type": 301
+  },
+  {
+  "source": "/lorna-vanderhaeghe/adrena-smart-anti-estresse-lorna-vanderhaeghe-90-capsulas?limit=75",
+  "destination": "/adrena-smart-anti-estresse-lorna-vanderhaeghe-90-capsulas",
+  "type": 301
+  },
+  {
+  "source": "/c-nutraceuticos/imunidade",
+  "destination": "/nutraceuticos",
+  "type": 301
+  },
+  {
+  "source": "/prevencao-e-tratamentos/peptideos/taxorest-a19-peptideo-biorregulador-dos-pulmoes-vita-stream-20-capsulas",
+  "destination": "/taxorest-a19-peptideo-biorregulador-dos-pulmoes-vita-stream-20-capsulas",
+  "type": 301
+  },
+  {
+  "source": "/index.php?route=product/search&tag=Água&limit=25",
+  "destination": "/",
+  "type": 301
+  },
+  {
+  "source": "/ndex.php?route=account/transaction",
+  "destination": "/",
+  "type": 301
+  },
+  {
+  "source": "/nootropicos/p-tonico-cerebral-nutropico-nectar-neural-superfeast-50g-5ml?sort=p.sort_order&order=ASC&limit=25",
+  "destination": "/p-tonico-cerebral-nutropico-nectar-neural-superfeast-50g-5ml",
+  "type": 301
+  },
+  {
+  "source": "/especiais/nootropicos/nmn/suplemento-dietetico-de-mononucleotideo-de-nicotinamida-po-sublingual-15g-omnite?sort=p.price&order=ASC",
+  "destination": "/nmn-puro-em-po-mononucleotideo-de-nicotinamida-donotage",
+  "type": 301
+  },
+  {
+  "source": "/lorna-vanderhaeghe/adrena-smart-anti-estresse-lorna-vanderhaeghe-90-capsulas",
+  "destination": "/adrena-smart-anti-estresse-lorna-vanderhaeghe-90-capsulas",
+  "type": 301
+  },
+  {
+  "source": "/rubeplex",
+  "destination": "/rubeplex-desentoxicante-vascular-qi-supplements-126-gr",
+  "type": 301
+  },
+  {
+  "source": "/prevencao-e-tratamentos/desintoxicacao-e-limpeza/olas-bio-foie-black-radish-30-3chenes?sort=pd.name&order=ASC",
+  "destination": "/p-selenio-200-mg-60-capsulas",
+  "type": 301
+  },
+  {
+  "source": "/global-healing-center/p-hematrex-veias-saudaveis?sort=p.sort_order&order=ASC&page=2&limit=15",
+  "destination": "/",
+  "type": 301
+  },
+  {
+  "source": "/suplementos-e-vitaminas/vitaminas-de-a-a-z/acido-folico/metil-folato-5-000-mcg",
+  "destination": "/metil-folato-5-000-mcg",
+  "type": 301
+  },
+  {
+  "source": "/global-healing-center/p-hematrex-veias-saudaveis?sort=p.model&order=ASC&page=2&limit=15",
+  "destination": "/",
+  "type": 301
+  },
+  {
+  "source": "/suplementos-e-vitaminas/vitaminas-de-a-a-z/acido-folico/metil-folato-5-000-mcg?sort=p.model&order=ASC&limit=75",
+  "destination": "/metil-folato-5-000-mcg",
+  "type": 301
+  },
+  {
+  "source": "/prevencao-e-tratamentos/corpo/sangue/p-hematrex-veias-saudaveis?sort=p.model&order=DESC",
+  "destination": "/",
+  "type": 301
+  },
+  {
+  "source": "/atendimento-vip",
+  "destination": "/",
+  "type": 301
+  },
+  {
+  "source": "/pele--unhas-e-cabelo/colágeno/p-colageno-tipo-1-e-3-com-peptan-e-vitamina-c-doctor-best-1000mg-180-comprimidos?limit=25",
+  "destination": "/p-colageno-peptideos-tipo-i-ii-ii-iv-x-nature-life",
+  "type": 301
+  },
+  {
+   "source": "/caes",
+   "destination": "/",
+   "type": 301
+   },
+   {
+   "source": "/oxido-nitrico-350-pt",
+   "destination": "/",
+   "type": 301
+   },
+   {
+   "source": "/c-nutraceuticos/saude-das-articulacoes/wobenzym-enzimas-proteoliticas",
+   "destination": "/p-wobenzym-ps-purerxo-100-comprimidos",
+   "type": 301
+   },
+   {
+   "source": "/cuidados-pessoais/aromaterapia/mistura-de-oleos-essenciais-tape-parakil-7-dr-clark-store-10ml",
+   "destination": "/mistura-de-oleos-essenciais-tape-parakil-7-dr-clark-store-10ml",
+   "type": 301
+   },
+   {
+   "source": "/index.php?route=product/search&tag=longevidade",
+   "destination": "/",
+   "type": 301
+   },
+   {
+   "source": "/c-saude-da-mulher/menopausa-tpm/vitex",
+   "destination": "/vitex",
+   "type": 301
+   },
+   {
+   "source": "/c-nutraceuticos/saude-do-cabelo",
+   "destination": "/",
+   "type": 301
+   },
+   {
+   "source": "/suplementos-e-vitaminas/defesas-naturais/probioticos/probiotico-homens-garden",
+   "destination": "/probiotico-homens-garden",
+   "type": 301
+   },
+   {
+   "source": "/index.php?route=product/search&tag=progesta",
+   "destination": "/",
+   "type": 301
+   },
+   {
+   "source": "/busca={search_term_string}",
+   "destination": "/",
+   "type": 301
+   },
+   {
+   "source": "/osteo-eze",
+   "destination": "/peptideos-osteo-180-para-o-sistema-musculoesqueletico-peptides-180-capsulas",
+   "type": 301
+   },
+   {
+   "source": "/index.php?route=product/search&tag=Omegas%20Algas%20Omega-3%20Vegan%20DHA",
+   "destination": "/",
+   "type": 301
+   },
+   {
+   "source": "/c-nutraceuticos/aminoacidos",
+   "destination": "/",
+   "type": 301
+   },
+   {
+   "source": "/21st-century/p-omega-3-oleo-de-peixe-21st-century-1-000-mg-300-softgels",
+   "destination": "/omega-3-nordic-naturals",
+   "type": 301
+   },
+   {
+   "source": "/pet-saudavel/quadril-articulacao-caes-gatos",
+   "destination": "/",
+   "type": 301
+   },
+   {
+   "source": "/defesas-naturais/coloidal-golden-platinum-harmonic-innerprizes-60ml?limit=100",
+   "destination": "/coloidal-golden-platinum-harmonic-innerprizes-60ml",
+   "type": 301
+   },
+   {
+   "source": "/shut-eye-suplemento-natural-ao-sono-a-base-de-plantas-feito-com-raiz-de-valeriana-melatonina-camomila-e-magnesio-insonia-e-alivio-da-ansiedade-60-capsulas-shueye",
+   "destination": "/p-shut-eye-suplemento-natural-ao-sono-a-base-de-plantas-feito-com-raiz-de-valeriana-melatonina-camomila-e-magnesio-insonia-e-alivio-da-ansiedade-60-capsulas-shueye",
+   "type": 301
+   },
+   {
+   "source": "/one-a-day",
+   "destination": "/",
+   "type": 301
+   },
+   {
+   "source": "/astaxantina-capsulas",
+   "destination": "/astaxantina-radicais-livres",
+   "type": 301
+   },
+   {
+   "source": "/especiais/nootropicos/racetams/aniracetam/p-aniracetam-pure-nootropics-60-capsulas?sort=p.sort_order&order=ASC&limit=100",
+   "destination": "/aniracetam-neurospark-cognitive-nutrition-750mg-60capsulas",
+   "type": 301
+   },
+   {
+   "source": "/defesas-naturais/antioxidantes/roma-importada-capsulas?sort=p.model&order=DESC&limit=25",
+   "destination": "/",
+   "type": 301
+   },
+   {
+   "source": "/defesas-naturais/antioxidantes/roma-importada-capsulas?sort=p.price&order=ASC&limit=75",
+   "destination": "/",
+   "type": 301
+   },
+   {
+    "source": "/especiais/nootropicos/racetams/aniracetam/p-aniracetam-pure-nootropics-60-capsulas?sort=p.price&order=DESC",
+    "destination": "/aniracetam-neurospark-cognitive-nutrition-750mg-60capsulas",
+    "type": 301
+    },
+    {
+    "source": "/defesas-naturais/antioxidantes/glutationa/glutationa-lipossomica-prohealth-500-mg-120-ml?sort=pd.name&order=DESC&limit=25",
+    "destination": "/https://www.querotudonatural.com.br/glutationa-lipossomica",
+    "type": 301
+    },
+    {
+      "source": "/pages/pagamentos",
+      "destination": "/",
+      "type": 301
+     },
+     {
+       "source": "/c-nutraceuticos/saude-da-prostata/pygeum-saw-palmetto",
+       "destination": "/p-saw-palmetto-pygeum-prostata",
+       "type": 301
+      },
       {
         "source": "/100-capsulas-de-alicina-em-po-allimax-180-mg-30-veggie-caps",
         "destination": "/spray-alicina",
