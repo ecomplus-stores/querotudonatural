@@ -680,34 +680,22 @@ import {
       }
     },
       
-  watch: {
-  selectedVariationId (variationId) {
-    if (this.hasClickedBuy) {
-      this.hasClickedBuy = false
-    }
-
-    const { pathname } = window.location
-    const searchParams = new URLSearchParams(window.location.search)
-
-    if (variationId) {
-      // Se existe variationId válido, atualiza a URL
-      searchParams.set('variation_id', variationId)
-      window.history.pushState({ pathname }, '', `${pathname}?${searchParams.toString()}`)
-    } else {
-      // Se não existe, remove o parâmetro para evitar 404
-      searchParams.delete('variation_id')
-      window.history.pushState(
-        { pathname },
-        '',
-        `${pathname}${searchParams.toString() ? '?' + searchParams.toString() : ''}`
-      )
-      console.warn('Produto sem variação válida:', this.selectedVariation)
-    }
-
-    // Atualiza a imagem da variação (continua como antes)
-    this.showVariationPicture(this.selectedVariation)
-  },
-},
+ watch: {
+      selectedVariationId (variationId) {
+        if (variationId) {
+          if (this.hasClickedBuy) {
+            this.hasClickedBuy = false
+          }
+          const { pathname } = window.location
+          const searchParams = new URLSearchParams(window.location.search)
+          searchParams.set('variation_id', variationId)
+          window.history.pushState({
+            pathname,
+            params: searchParams.toString()
+          }, '', `${pathname}?${searchParams.toString()}`)
+          this.showVariationPicture(this.selectedVariation)
+        }
+      },
 
       fixedPrice (price) {
         if (price > 0 && !this.isQuickview) {
